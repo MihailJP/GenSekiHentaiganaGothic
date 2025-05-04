@@ -1,0 +1,12 @@
+ChangeLog
+*.otf
+*.ttf
+*.woff
+*.woff2
+GenSekiHentaiganaGothic/
+GenSekiHentaiganaGothic-OT/
+GenSekiHentaiganaGothic-WOFF2/
+*.tar.xz
+*.tar.gz
+*.tar.bz2
+*.zip
