@@ -1,0 +1,24 @@
+/*
+Use this stylesheet to use GenSeki Hentaigana Gothic as webfont
+
+Replace url() values with the path to the font installed in your server
+
+Usage in your hypertexts:
+	<link rel="stylesheet" type="text/css" href="GenSekiHentaiganaGothic.css" />
+
+Usage in your stylesheets:
+	font-family: "GenSeki Hentaigana Gothic";
+*/
+
+@font-face {
+	font-family: "GenSeki Hentaigana Gothic";
+	font-weight: regular;
+	font-style: normal;
+	src: url("Inconsolata-LGC.woff2") format("woff2");
+}
+@font-face {
+	font-family: "GenSeki Hentaigana Gothic";
+	font-weight: bold;
+	font-style: normal;
+	src: url("Inconsolata-LGC-Bold.woff2") format("woff2");
+}
