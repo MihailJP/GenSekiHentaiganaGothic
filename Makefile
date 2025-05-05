@@ -17,7 +17,7 @@ all: ttf otf woff2
 .SUFFIXES: .sfd .ttf .otf .woff .woff2 .ufo
 
 .sfd.ttf .sfd.otf .sfd.woff .sfd.woff2:
-	for i in $?;do fontforge -lang=py -c "font=fontforge.open(\"$$i\"); font.buildOrReplaceAALTFeatures(); font.generate(\"$@\"); font.close()";done
+	for i in $?;do fontforge -lang=py -c "font=fontforge.open(\"$$i\"); font.buildOrReplaceAALTFeatures(); fontforge.setPrefs('CoverageFormatsAllowed', 1); font.generate(\"$@\"); font.close()";done
 .sfd.ufo:
 	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");Generate(\"$@\");Close()";done
 	grep "^Version: " Inconsolata-LGC.sfd | sed -e "s/^Version: //"
