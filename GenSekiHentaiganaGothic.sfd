@@ -36,7 +36,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1746358154
-ModificationTime: 1746709249
+ModificationTime: 1756208564
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -89,7 +89,7 @@ WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 234881 117441 78293 569377 1048576 78293 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 979 979
+BeginChars: 980 980
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -64417,6 +64417,49 @@ SplineSet
  289 -783 346 -686 445 -686 c 0
 EndSplineSet
 Colour: ff0000
+EndChar
+
+StartChar: uni30FF_uni3099.ccmp
+Encoding: 979 -1 979
+Width: 1000
+VWidth: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+787 758 m 0
+ 801 734 814 710 824 690 c 1
+ 773 667 l 1
+ 764 686 752 710 737 734 c 0
+ 724 758 710 781 697 800 c 1
+ 747 822 l 1
+ 759 805 773 781 787 758 c 0
+892 795 m 0
+ 906 771 920 747 928 729 c 1
+ 878 706 l 1
+ 868 728 855 752 842 775 c 0
+ 828 798 814 821 800 838 c 1
+ 850 860 l 1
+ 863 843 878 819 892 795 c 0
+706 311 m 1
+ 706 114 l 2
+ 706 48 709 -33 714 -82 c 1
+ 706 -88 629 -88 621 -82 c 1
+ 626 -7 629 118 629 218 c 2
+ 629 632 l 1
+ 388 632 l 2
+ 307 632 227 629 147 624 c 1
+ 143 632 143 705 147 711 c 1
+ 181 707 239 705 286 705 c 2
+ 426 705 l 1
+ 566 705 l 2
+ 614 705 671 707 706 711 c 0
+ 714 711 714 707 714 705 c 0
+ 709 656 706 575 706 508 c 2
+ 706 311 l 1
+EndSplineSet
+Ligature2: "Historical Kana ligatures subtable" uni30B4 uni30C8
+Ligature2: "Dakuten and handakuten subtable" uni30FF uni3099
 EndChar
 EndChars
 EndSplineFont
