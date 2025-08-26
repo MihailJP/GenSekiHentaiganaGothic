@@ -36,7 +36,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1746358154
-ModificationTime: 1756217255
+ModificationTime: 1756218132
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -85,11 +85,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 8
+WinInfo: 768 32 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 234881 117441 78293 569377 1048576 78293 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 991 991
+BeginChars: 1011 1011
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -3333,8 +3333,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni3042 uni3099
 EndChar
 
+StartChar: uni3042_uni309A.ccmp
+Encoding: 107 -1 107
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni3042 uni309A
+EndChar
+
 StartChar: uni3043
-Encoding: 107 12355 107
+Encoding: 108 12355 108
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3365,7 +3373,7 @@ Substitution2: "Vertical forms subtable" uni3043.vert
 EndChar
 
 StartChar: uni3043.vert
-Encoding: 108 -1 108
+Encoding: 109 -1 109
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3396,7 +3404,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3044
-Encoding: 109 12356 109
+Encoding: 110 12356 110
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3427,7 +3435,7 @@ AlternateSubs2: "Historical Kana subtable" u1B006 u1B007 u1B008 u1B009
 EndChar
 
 StartChar: uni3044_uni3099.ccmp
-Encoding: 110 -1 110
+Encoding: 111 -1 111
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3471,8 +3479,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni3044 uni3099
 EndChar
 
+StartChar: uni3044_uni309A.ccmp
+Encoding: 112 -1 112
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni3044 uni309A
+EndChar
+
 StartChar: uni3045
-Encoding: 111 12357 111
+Encoding: 113 12357 113
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3503,7 +3519,7 @@ Substitution2: "Vertical forms subtable" uni3045.vert
 EndChar
 
 StartChar: uni3045.vert
-Encoding: 112 -1 112
+Encoding: 114 -1 114
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3534,7 +3550,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3046
-Encoding: 113 12358 113
+Encoding: 115 12358 115
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3564,8 +3580,16 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B00A u1B00B u1B00C u1B00D u1B00E
 EndChar
 
+StartChar: uni3046_uni309A.ccmp
+Encoding: 116 -1 116
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni3046 uni309A
+EndChar
+
 StartChar: uni3047
-Encoding: 114 12359 114
+Encoding: 117 12359 117
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3611,7 +3635,7 @@ Substitution2: "Vertical forms subtable" uni3047.vert
 EndChar
 
 StartChar: uni3047.vert
-Encoding: 115 -1 115
+Encoding: 118 -1 118
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3656,7 +3680,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3048
-Encoding: 116 12360 116
+Encoding: 119 12360 119
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3702,7 +3726,7 @@ AlternateSubs2: "Historical Kana subtable" u1B001 u1B00F u1B010 u1B011 u1B012 u1
 EndChar
 
 StartChar: uni3048_uni3099.ccmp
-Encoding: 117 -1 117
+Encoding: 120 -1 120
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3761,8 +3785,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni3048 uni3099
 EndChar
 
+StartChar: uni3048_uni309A.ccmp
+Encoding: 121 -1 121
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni3048 uni309A
+EndChar
+
 StartChar: uni3049
-Encoding: 118 12361 118
+Encoding: 122 12361 122
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3820,7 +3852,7 @@ Substitution2: "Vertical forms subtable" uni3049.vert
 EndChar
 
 StartChar: uni3049.vert
-Encoding: 119 -1 119
+Encoding: 123 -1 123
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3878,7 +3910,7 @@ Comment: "."
 EndChar
 
 StartChar: uni304A
-Encoding: 120 12362 120
+Encoding: 124 12362 124
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -3936,7 +3968,7 @@ AlternateSubs2: "Historical Kana subtable" u1B014 u1B015 u1B016
 EndChar
 
 StartChar: uni304A_uni3099.ccmp
-Encoding: 121 -1 121
+Encoding: 125 -1 125
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4007,8 +4039,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni304A uni3099
 EndChar
 
+StartChar: uni304A_uni309A.ccmp
+Encoding: 126 -1 126
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni304A uni309A
+EndChar
+
 StartChar: uni304B
-Encoding: 122 12363 122
+Encoding: 127 12363 127
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4052,7 +4092,7 @@ AlternateSubs2: "Historical Kana subtable" u1B017 u1B018 u1B019 u1B01A u1B01B u1
 EndChar
 
 StartChar: uni304C
-Encoding: 123 12364 123
+Encoding: 128 12364 128
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4110,7 +4150,7 @@ AlternateSubs2: "Historical Kana subtable" u1B017_uni3099.ccmp u1B018_uni3099.cc
 EndChar
 
 StartChar: uni304B_uni309A.ccmp
-Encoding: 124 -1 124
+Encoding: 129 -1 129
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4168,7 +4208,7 @@ Ligature2: "Dakuten and handakuten subtable" uni304B uni309A
 EndChar
 
 StartChar: uni304D
-Encoding: 125 12365 125
+Encoding: 130 12365 130
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4215,7 +4255,7 @@ AlternateSubs2: "Historical Kana subtable" u1B023 u1B024 u1B025 u1B026 u1B027 u1
 EndChar
 
 StartChar: uni304E
-Encoding: 126 12366 126
+Encoding: 131 12366 131
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4276,7 +4316,7 @@ AlternateSubs2: "Historical Kana subtable" u1B023_uni3099.ccmp u1B024_uni3099.cc
 EndChar
 
 StartChar: uni304D_uni309A.ccmp
-Encoding: 127 -1 127
+Encoding: 132 -1 132
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4338,7 +4378,7 @@ Ligature2: "Dakuten and handakuten subtable" uni304D uni309A
 EndChar
 
 StartChar: uni304F
-Encoding: 128 12367 128
+Encoding: 133 12367 133
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4363,7 +4403,7 @@ AlternateSubs2: "Historical Kana subtable" u1B02B u1B02C u1B02D u1B02E u1B02F u1
 EndChar
 
 StartChar: uni3050
-Encoding: 129 12368 129
+Encoding: 134 12368 134
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4402,7 +4442,7 @@ AlternateSubs2: "Historical Kana subtable" u1B02B_uni3099.ccmp u1B02C_uni3099.cc
 EndChar
 
 StartChar: uni304F_uni309A.ccmp
-Encoding: 130 -1 130
+Encoding: 135 -1 135
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4441,7 +4481,7 @@ Ligature2: "Dakuten and handakuten subtable" uni304F uni309A
 EndChar
 
 StartChar: uni3051
-Encoding: 131 12369 131
+Encoding: 136 12369 136
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4490,7 +4530,7 @@ AlternateSubs2: "Historical Kana subtable" u1B032 u1B033 u1B034 u1B035 u1B036 u1
 EndChar
 
 StartChar: uni3052
-Encoding: 132 12370 132
+Encoding: 137 12370 137
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4553,7 +4593,7 @@ AlternateSubs2: "Historical Kana subtable" u1B032_uni3099.ccmp u1B033_uni3099.cc
 EndChar
 
 StartChar: uni3051_uni309A.ccmp
-Encoding: 133 -1 133
+Encoding: 138 -1 138
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4616,7 +4656,7 @@ Ligature2: "Dakuten and handakuten subtable" uni3051 uni309A
 EndChar
 
 StartChar: uni3053
-Encoding: 134 12371 134
+Encoding: 139 12371 139
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4648,7 +4688,7 @@ AlternateSubs2: "Historical Kana subtable" u1B038 u1B039 u1B03A u1B03B u1B098
 EndChar
 
 StartChar: uni3054
-Encoding: 135 12372 135
+Encoding: 140 12372 140
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4694,7 +4734,7 @@ AlternateSubs2: "Historical Kana subtable" u1B038_uni3099.ccmp u1B039_uni3099.cc
 EndChar
 
 StartChar: uni3053_uni309A.ccmp
-Encoding: 136 -1 136
+Encoding: 141 -1 141
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4740,7 +4780,7 @@ Ligature2: "Dakuten and handakuten subtable" uni3053 uni309A
 EndChar
 
 StartChar: uni3055
-Encoding: 137 12373 137
+Encoding: 142 12373 142
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4777,7 +4817,7 @@ AlternateSubs2: "Historical Kana subtable" u1B03C u1B03D u1B03E u1B03F u1B040 u1
 EndChar
 
 StartChar: uni3056
-Encoding: 138 12374 138
+Encoding: 143 12374 143
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4827,8 +4867,59 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B03C_uni3099.ccmp u1B03D_uni3099.ccmp u1B03E_uni3099.ccmp u1B03F_uni3099.ccmp u1B040_uni3099.ccmp u1B041_uni3099.ccmp u1B042_uni3099.ccmp u1B043_uni3099.ccmp
 EndChar
 
+StartChar: uni3055_uni309A.ccmp
+Encoding: 144 -1 144
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+869 799 m 4
+ 859 810 845 816 829 816 c 4
+ 813 816 799 809 788 799 c 4
+ 779 788 772 774 772 758 c 4
+ 772 726 797 701 829 701 c 4
+ 860 701 885 726 885 758 c 4
+ 885 774 879 789 869 799 c 4
+898 829 m 4
+ 916 811 927 786 927 758 c 4
+ 927 730 916 705 898 687 c 4
+ 880 669 856 658 829 658 c 4
+ 773 658 731 702 731 758 c 4
+ 731 814 773 858 829 858 c 4
+ 856 858 881 847 898 829 c 4
+385 527 m 0
+ 318 528 247 531 174 537 c 1
+ 172 613 l 1
+ 308 597 443 594 543 602 c 1
+ 531 638 522 667 516 688 c 0
+ 509 709 501 738 492 764 c 1
+ 531 769 l 1
+ 571 773 l 1
+ 578 731 597 664 615 609 c 1
+ 680 618 761 634 824 656 c 1
+ 833 581 l 1
+ 774 564 698 551 638 543 c 1
+ 666 470 709 396 743 344 c 0
+ 757 326 771 310 785 293 c 1
+ 747 240 l 1
+ 702 253 515 297 414 297 c 0
+ 318 297 272 257 272 185 c 0
+ 272 83 353 42 493 41 c 0
+ 588 40 670 50 735 64 c 1
+ 732 -12 l 1
+ 673 -22 594 -33 489 -32 c 0
+ 311 -31 198 34 198 176 c 0
+ 198 294 272 361 410 361 c 0
+ 518 361 649 329 682 315 c 1
+ 646 370 599 456 569 534 c 1
+ 514 529 451 527 385 527 c 0
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni3055 uni309A
+EndChar
+
 StartChar: uni3057
-Encoding: 139 12375 139
+Encoding: 145 12375 145
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4853,7 +4944,7 @@ AlternateSubs2: "Historical Kana subtable" u1B044 u1B045 u1B046 u1B047 u1B048 u1
 EndChar
 
 StartChar: uni3057.salt
-Encoding: 140 -1 140
+Encoding: 146 -1 146
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4885,7 +4976,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni3058
-Encoding: 141 12376 141
+Encoding: 147 12376 147
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4924,7 +5015,7 @@ AlternateSubs2: "Historical Kana subtable" u1B044_uni3099.ccmp u1B045_uni3099.cc
 EndChar
 
 StartChar: uni3058.salt
-Encoding: 142 -1 142
+Encoding: 148 -1 148
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4970,8 +5061,93 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni3057_uni309A.ccmp
+Encoding: 149 -1 149
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+733 564 m 0
+ 745 577 753 595 753 614 c 0
+ 753 635 746 652 732 664 c 0
+ 720 678 703 685 684 685 c 0
+ 645 685 615 654 615 614 c 0
+ 615 576 645 543 684 543 c 0
+ 703 543 720 551 733 564 c 0
+603 698 m 0
+ 624 719 653 732 684 732 c 0
+ 716 732 744 719 765 698 c 0
+ 786 677 799 647 799 614 c 0
+ 799 550 747 498 684 498 c 0
+ 621 498 570 550 570 614 c 0
+ 570 647 583 677 603 698 c 0
+246 431 m 0
+ 249 522 251 608 251 658 c 0
+ 251 694 248 728 242 756 c 1
+ 289 755 l 1
+ 337 755 l 1
+ 333 723 330 690 329 658 c 0
+ 325 551 318 323 318 180 c 0
+ 318 74 383 37 472 37 c 0
+ 644 37 742 136 808 236 c 1
+ 862 170 l 1
+ 797 79 676 -42 470 -42 c 0
+ 335 -42 241 16 241 172 c 0
+ 241 243 244 340 246 431 c 0
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni3057 uni309A
+Substitution2: "Stylistic Kana variants subtable" uni3057_uni309A.ccmp.salt
+EndChar
+
+StartChar: uni3057_uni309A.ccmp.salt
+Encoding: 150 -1 150
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+733 564 m 4
+ 745 577 753 595 753 614 c 4
+ 753 635 746 652 732 664 c 4
+ 720 678 703 685 684 685 c 4
+ 645 685 615 654 615 614 c 4
+ 615 576 645 543 684 543 c 4
+ 703 543 720 551 733 564 c 4
+603 698 m 4
+ 624 719 653 732 684 732 c 4
+ 716 732 744 719 765 698 c 4
+ 786 677 799 647 799 614 c 4
+ 799 550 747 498 684 498 c 4
+ 621 498 570 550 570 614 c 4
+ 570 647 583 677 603 698 c 4
+443 564 m 1
+ 419 583 387 605 346 632 c 0
+ 299 665 264 687 241 700 c 1
+ 283 764 l 1
+ 304 753 340 731 391 696 c 0
+ 431 669 463 647 487 629 c 1
+ 443 564 l 1
+481 -35 m 0
+ 321 -35 245 36 253 179 c 0
+ 254 204 255 239 255 284 c 0
+ 255 290 255 299 256 311 c 0
+ 257 366 257 366 258 421 c 0
+ 258 460 256 493 251 519 c 1
+ 298 518 l 1
+ 346 518 l 1
+ 341 486 338 454 337 421 c 0
+ 333 334 330 249 330 167 c 128
+ 330 85 381 44 484 44 c 0
+ 562 44 631 65 692 106 c 0
+ 737 137 780 182 821 242 c 1
+ 874 177 l 1
+ 773 36 642 -35 481 -35 c 0
+EndSplineSet
+EndChar
+
 StartChar: uni3059
-Encoding: 143 12377 143
+Encoding: 151 12377 151
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5015,7 +5191,7 @@ AlternateSubs2: "Historical Kana subtable" u1B04A u1B04B u1B04C u1B04D u1B04E u1
 EndChar
 
 StartChar: uni305A
-Encoding: 144 12378 144
+Encoding: 152 12378 152
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5072,8 +5248,66 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B04A_uni3099.ccmp u1B04B_uni3099.ccmp u1B04C_uni3099.ccmp u1B04D_uni3099.ccmp u1B04E_uni3099.ccmp u1B04F_uni3099.ccmp u1B050_uni3099.ccmp u1B051_uni3099.ccmp
 EndChar
 
+StartChar: uni3059_uni309A.ccmp
+Encoding: 153 -1 153
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+829 763 m 0
+ 819 774 805 780 789 780 c 0
+ 773 780 759 773 748 763 c 0
+ 739 752 732 738 732 722 c 0
+ 732 690 757 665 789 665 c 0
+ 820 665 845 690 845 722 c 0
+ 845 738 839 753 829 763 c 0
+858 793 m 0
+ 876 775 887 750 887 722 c 0
+ 887 694 876 669 858 651 c 0
+ 840 633 816 622 789 622 c 0
+ 733 622 691 666 691 722 c 0
+ 691 778 733 822 789 822 c 0
+ 816 822 841 811 858 793 c 0
+387 372 m 0
+ 370 354 358 329 358 297 c 0
+ 358 238 402 202 454 202 c 0
+ 481 202 504 214 519 236 c 0
+ 534 259 541 292 538 337 c 1
+ 523 380 491 399 453 399 c 0
+ 429 399 405 389 387 372 c 0
+587 471 m 1
+ 588 392 l 1
+ 608 360 618 317 618 269 c 0
+ 618 139 556 -5 338 -71 c 1
+ 275 -8 l 1
+ 399 21 487 75 525 162 c 1
+ 502 145 475 136 443 136 c 0
+ 363 136 288 192 288 296 c 0
+ 288 391 364 463 454 463 c 0
+ 477 463 498 459 517 453 c 1
+ 516 549 l 1
+ 372 548 213 541 96 532 c 1
+ 93 607 l 1
+ 198 609 375 615 515 617 c 1
+ 513 680 l 2
+ 511 705 508 733 507 741 c 1
+ 549 741 l 1
+ 592 741 l 1
+ 591 730 588 692 587 680 c 2
+ 586 618 l 1
+ 601 618 l 2
+ 716 618 832 617 876 617 c 1
+ 875 545 l 1
+ 822 548 738 550 600 550 c 2
+ 586 550 l 1
+ 587 471 l 1
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni3059 uni309A
+EndChar
+
 StartChar: uni305B
-Encoding: 145 12379 145
+Encoding: 154 12379 154
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5123,7 +5357,7 @@ AlternateSubs2: "Historical Kana subtable" u1B052 u1B053 u1B054 u1B055 u1B056
 EndChar
 
 StartChar: uni305C
-Encoding: 146 12380 146
+Encoding: 155 12380 155
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5186,8 +5420,72 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B052_uni3099.ccmp u1B053_uni3099.ccmp u1B054_uni3099.ccmp u1B055_uni3099.ccmp u1B056_uni3099.ccmp
 EndChar
 
+StartChar: uni305B_uni309A.ccmp
+Encoding: 156 -1 156
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+885 726 m 4
+ 875 737 861 743 845 743 c 4
+ 829 743 815 736 804 726 c 4
+ 795 715 788 701 788 685 c 4
+ 788 653 813 628 845 628 c 4
+ 876 628 901 653 901 685 c 4
+ 901 701 895 716 885 726 c 4
+914 756 m 4
+ 932 738 943 713 943 685 c 4
+ 943 657 932 632 914 614 c 4
+ 896 596 872 585 845 585 c 4
+ 789 585 747 629 747 685 c 4
+ 747 741 789 785 845 785 c 4
+ 872 785 897 774 914 756 c 4
+633 599 m 1
+ 633 668 l 2
+ 633 689 631 723 628 740 c 1
+ 708 740 l 1
+ 705 723 704 691 703 670 c 2
+ 701 536 l 1
+ 806 543 l 2
+ 829 545 856 546 879 548 c 1
+ 879 473 l 1
+ 864 474 828 473 805 472 c 0
+ 776 471 741 470 699 467 c 1
+ 697 396 695 311 686 266 c 0
+ 678 223 657 211 614 211 c 0
+ 580 211 515 220 490 225 c 1
+ 492 291 l 1
+ 524 284 564 279 586 279 c 0
+ 608 279 618 283 621 305 c 0
+ 626 337 630 401 632 461 c 1
+ 535 454 425 443 331 434 c 1
+ 330 335 330 235 331 197 c 0
+ 334 94 336 57 498 57 c 0
+ 600 57 716 69 777 80 c 1
+ 774 -1 l 1
+ 712 -8 597 -18 502 -18 c 0
+ 284 -18 264 34 259 187 c 0
+ 258 228 258 330 258 426 c 1
+ 158 414 l 2
+ 129 410 88 405 62 401 c 1
+ 54 480 l 1
+ 84 480 118 482 152 484 c 2
+ 258 495 l 1
+ 259 628 l 2
+ 259 657 257 680 254 709 c 1
+ 294 709 l 1
+ 336 709 l 1
+ 334 688 332 661 332 632 c 2
+ 331 502 l 1
+ 423 511 532 522 633 530 c 1
+ 633 599 l 1
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni305B uni309A
+EndChar
+
 StartChar: uni305D
-Encoding: 147 12381 147
+Encoding: 157 12381 157
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5225,7 +5523,7 @@ AlternateSubs2: "Historical Kana subtable" u1B057 u1B058 u1B059 u1B05A u1B05B u1
 EndChar
 
 StartChar: uni305D.salt
-Encoding: 148 -1 148
+Encoding: 158 -1 158
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5270,7 +5568,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni305E
-Encoding: 149 12382 149
+Encoding: 159 12382 159
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5322,7 +5620,7 @@ AlternateSubs2: "Historical Kana subtable" u1B057_uni3099.ccmp u1B058_uni3099.cc
 EndChar
 
 StartChar: uni305E.salt
-Encoding: 150 -1 150
+Encoding: 160 -1 160
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5380,8 +5678,119 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni305D_uni309A.ccmp
+Encoding: 161 -1 161
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+821 622 m 0
+ 811 633 797 639 781 639 c 0
+ 765 639 751 632 740 622 c 0
+ 731 611 724 597 724 581 c 0
+ 724 549 749 524 781 524 c 0
+ 812 524 837 549 837 581 c 0
+ 837 597 831 612 821 622 c 0
+850 652 m 0
+ 868 634 879 609 879 581 c 0
+ 879 553 868 528 850 510 c 0
+ 832 492 808 481 781 481 c 0
+ 725 481 683 525 683 581 c 0
+ 683 637 725 681 781 681 c 0
+ 808 681 833 670 850 652 c 0
+425 19 m 0
+ 365 55 334 110 334 184 c 0
+ 334 266 395 336 443 365 c 1
+ 342 357 217 341 104 323 c 1
+ 98 395 l 1
+ 148 400 212 409 259 414 c 1
+ 362 486 510 620 571 674 c 1
+ 528 671 364 663 323 659 c 0
+ 300 657 272 654 252 652 c 1
+ 248 731 l 1
+ 271 729 294 728 322 728 c 0
+ 364 728 557 737 612 743 c 0
+ 633 746 651 748 663 752 c 1
+ 687 725 714 685 709 682 c 0
+ 702 678 698 689 686 681 c 0
+ 676 674 667 667 660 661 c 0
+ 590 602 454 486 379 425 c 1
+ 450 434 528 440 605 445 c 0
+ 682 451 759 454 826 454 c 1
+ 826 383 l 1
+ 734 387 644 386 587 378 c 0
+ 496 364 406 286 406 195 c 0
+ 406 98 483 66 569 53 c 0
+ 624 47 670 49 703 51 c 1
+ 688 -27 l 1
+ 574 -32 485 -16 425 19 c 0
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni305D uni309A
+Substitution2: "Stylistic Kana variants subtable" uni305D_uni309A.ccmp.salt
+EndChar
+
+StartChar: uni305D_uni309A.ccmp.salt
+Encoding: 162 -1 162
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+863 768 m 0
+ 853 779 839 785 823 785 c 0
+ 807 785 793 778 782 768 c 0
+ 773 757 766 743 766 727 c 0
+ 766 695 791 670 823 670 c 0
+ 854 670 879 695 879 727 c 0
+ 879 743 873 758 863 768 c 0
+892 798 m 0
+ 910 780 921 755 921 727 c 0
+ 921 699 910 674 892 656 c 0
+ 874 638 850 627 823 627 c 0
+ 767 627 725 671 725 727 c 0
+ 725 783 767 827 823 827 c 0
+ 850 827 875 816 892 798 c 0
+376 570 m 1
+ 346 600 324 621 311 632 c 0
+ 292 649 272 665 252 682 c 1
+ 298 734 l 1
+ 321 717 342 700 360 683 c 0
+ 390 657 411 637 424 622 c 1
+ 376 570 l 1
+445 -3 m 0
+ 384 32 354 87 354 161 c 0
+ 354 199 366 236 391 272 c 0
+ 411 302 435 325 463 342 c 1
+ 350 333 237 319 124 300 c 1
+ 118 372 l 1
+ 128 373 144 375 165 378 c 0
+ 220 384 258 388 281 391 c 1
+ 380 462 476 543 571 636 c 0
+ 624 689 651 723 651 739 c 1
+ 663 725 677 707 693 684 c 128
+ 709 661 716 649 714 648 c 128
+ 712 647 708 647 705 648 c 0
+ 700 651 695 650 690 647 c 0
+ 677 639 669 633 664 628 c 0
+ 627 595 598 571 579 556 c 0
+ 552 535 492 484 399 403 c 1
+ 522 411 595 417 618 422 c 0
+ 621 423 624 423 625 423 c 0
+ 708 428 782 431 846 431 c 1
+ 846 360 l 1
+ 739 365 659 363 608 356 c 0
+ 561 349 519 328 483 293 c 0
+ 446 256 427 216 427 172 c 0
+ 427 91 481 44 589 31 c 0
+ 628 26 673 25 724 28 c 1
+ 708 -49 l 1
+ 595 -55 508 -40 445 -3 c 0
+EndSplineSet
+EndChar
+
 StartChar: uni305F
-Encoding: 151 12383 151
+Encoding: 163 12383 163
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5434,7 +5843,7 @@ AlternateSubs2: "Historical Kana subtable" u1B05E u1B05F u1B060 u1B061
 EndChar
 
 StartChar: uni3060
-Encoding: 152 12384 152
+Encoding: 164 12384 164
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5501,7 +5910,7 @@ AlternateSubs2: "Historical Kana subtable" u1B05E_uni3099.ccmp u1B05F_uni3099.cc
 EndChar
 
 StartChar: uni3061
-Encoding: 153 12385 153
+Encoding: 165 12385 165
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5539,7 +5948,7 @@ AlternateSubs2: "Historical Kana subtable" u1B062 u1B063 u1B064 u1B065 u1B066 u1
 EndChar
 
 StartChar: uni3062
-Encoding: 154 12386 154
+Encoding: 166 12386 166
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5591,7 +6000,7 @@ AlternateSubs2: "Historical Kana subtable" u1B062_uni3099.ccmp u1B063_uni3099.cc
 EndChar
 
 StartChar: uni3063
-Encoding: 155 12387 155
+Encoding: 167 12387 167
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5614,7 +6023,7 @@ Substitution2: "Vertical forms subtable" uni3063.vert
 EndChar
 
 StartChar: uni3063.vert
-Encoding: 156 -1 156
+Encoding: 168 -1 168
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5637,7 +6046,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3064
-Encoding: 157 12388 157
+Encoding: 169 12388 169
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5660,7 +6069,7 @@ AlternateSubs2: "Historical Kana subtable" u1B069 u1B06A u1B06B u1B06C u1B06D
 EndChar
 
 StartChar: uni3065
-Encoding: 158 12389 158
+Encoding: 170 12389 170
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5697,7 +6106,7 @@ AlternateSubs2: "Historical Kana subtable" u1B069_uni3099.ccmp u1B06A_uni3099.cc
 EndChar
 
 StartChar: uni3066
-Encoding: 159 12390 159
+Encoding: 171 12390 171
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5723,7 +6132,7 @@ AlternateSubs2: "Historical Kana subtable" u1B06E u1B06F u1B070 u1B071 u1B072 u1
 EndChar
 
 StartChar: uni3067
-Encoding: 160 12391 160
+Encoding: 172 12391 172
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5763,7 +6172,7 @@ AlternateSubs2: "Historical Kana subtable" u1B06E_uni3099.ccmp u1B06F_uni3099.cc
 EndChar
 
 StartChar: uni3068
-Encoding: 161 12392 161
+Encoding: 173 12392 173
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5792,7 +6201,7 @@ AlternateSubs2: "Historical Kana subtable" u1B077 u1B078 u1B079 u1B07A u1B07B u1
 EndChar
 
 StartChar: uni3069
-Encoding: 162 12393 162
+Encoding: 174 12393 174
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5835,7 +6244,7 @@ AlternateSubs2: "Historical Kana subtable" u1B077_uni3099.ccmp u1B078_uni3099.cc
 EndChar
 
 StartChar: uni306A
-Encoding: 163 12394 163
+Encoding: 175 12394 175
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5893,7 +6302,7 @@ AlternateSubs2: "Historical Kana subtable" u1B07E u1B07F u1B080 u1B081 u1B082 u1
 EndChar
 
 StartChar: uni306B
-Encoding: 164 12395 164
+Encoding: 176 12395 176
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -5940,7 +6349,7 @@ AlternateSubs2: "Historical Kana subtable" u1B087 u1B088 u1B089 u1B08A u1B08B u1
 EndChar
 
 StartChar: uni306C
-Encoding: 165 12396 165
+Encoding: 177 12396 177
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6006,7 +6415,7 @@ AlternateSubs2: "Historical Kana subtable" u1B08F u1B090 u1B091
 EndChar
 
 StartChar: uni306D
-Encoding: 166 12397 166
+Encoding: 178 12397 178
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6063,7 +6472,7 @@ AlternateSubs2: "Historical Kana subtable" u1B092 u1B093 u1B094 u1B095 u1B096 u1
 EndChar
 
 StartChar: uni306E
-Encoding: 167 12398 167
+Encoding: 179 12398 179
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6094,7 +6503,7 @@ AlternateSubs2: "Historical Kana subtable" u1B099 u1B09A u1B09B u1B09C u1B09D
 EndChar
 
 StartChar: uni306F
-Encoding: 168 12399 168
+Encoding: 180 12399 180
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6156,7 +6565,7 @@ AlternateSubs2: "Historical Kana subtable" u1B09E u1B09F u1B0A0 u1B0A1 u1B0A2 u1
 EndChar
 
 StartChar: uni3070
-Encoding: 169 12400 169
+Encoding: 181 12400 181
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6232,7 +6641,7 @@ AlternateSubs2: "Historical Kana subtable" u1B09E_uni3099.ccmp u1B09F_uni3099.cc
 EndChar
 
 StartChar: uni3071
-Encoding: 170 12401 170
+Encoding: 182 12401 182
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6308,7 +6717,7 @@ AlternateSubs2: "Historical Kana subtable" u1B09E_uni309A.ccmp u1B09F_uni309A.cc
 EndChar
 
 StartChar: uni3072
-Encoding: 171 12402 171
+Encoding: 183 12402 183
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6340,7 +6749,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0A9 u1B0AA u1B0AB u1B0AC u1B0AD u1
 EndChar
 
 StartChar: uni3073
-Encoding: 172 12403 172
+Encoding: 184 12403 184
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6386,7 +6795,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0A9_uni3099.ccmp u1B0AA_uni3099.cc
 EndChar
 
 StartChar: uni3074
-Encoding: 173 12404 173
+Encoding: 185 12404 185
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6432,7 +6841,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0A9_uni309A.ccmp u1B0AA_uni309A.cc
 EndChar
 
 StartChar: uni3075
-Encoding: 174 12405 174
+Encoding: 186 12405 186
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6480,7 +6889,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0B0 u1B0B1 u1B0B2
 EndChar
 
 StartChar: uni3076
-Encoding: 175 12406 175
+Encoding: 187 12406 187
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6542,7 +6951,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0B0_uni3099.ccmp u1B0B1_uni3099.cc
 EndChar
 
 StartChar: uni3077
-Encoding: 176 12407 176
+Encoding: 188 12407 188
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6604,7 +7013,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0B0_uni309A.ccmp u1B0B1_uni309A.cc
 EndChar
 
 StartChar: uni3078
-Encoding: 177 12408 177
+Encoding: 189 12408 189
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6630,7 +7039,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0B3 u1B0B4 u1B0B5 u1B0B6 u1B0B7 u1
 EndChar
 
 StartChar: uni3079
-Encoding: 178 12409 178
+Encoding: 190 12409 190
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6670,7 +7079,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0B3_uni3099.ccmp u1B0B4_uni3099.cc
 EndChar
 
 StartChar: uni307A
-Encoding: 179 12410 179
+Encoding: 191 12410 191
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6710,7 +7119,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0B3_uni309A.ccmp u1B0B4_uni309A.cc
 EndChar
 
 StartChar: uni307B
-Encoding: 180 12411 180
+Encoding: 192 12411 192
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6772,7 +7181,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0BA u1B0BB u1B0BC u1B0BD u1B0BE u1
 EndChar
 
 StartChar: uni307C
-Encoding: 181 12412 181
+Encoding: 193 12412 193
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6845,7 +7254,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0BA_uni3099.ccmp u1B0BB_uni3099.cc
 EndChar
 
 StartChar: uni307D
-Encoding: 182 12413 182
+Encoding: 194 12413 194
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6919,7 +7328,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0BA_uni309A.ccmp u1B0BB_uni309A.cc
 EndChar
 
 StartChar: uni307E
-Encoding: 183 12414 183
+Encoding: 195 12414 195
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -6976,7 +7385,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0C2 u1B0C3 u1B0C4 u1B0C5 u1B0C6 u1
 EndChar
 
 StartChar: uni307F
-Encoding: 184 12415 184
+Encoding: 196 12415 196
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7024,7 +7433,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0C9 u1B0CA u1B0CB u1B0CC u1B0CD u1
 EndChar
 
 StartChar: uni3080
-Encoding: 185 12416 185
+Encoding: 197 12416 197
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7084,7 +7493,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0D0 u1B0D1 u1B0D2 u1B0D3 u1B11D u1
 EndChar
 
 StartChar: uni3081
-Encoding: 186 12417 186
+Encoding: 198 12417 198
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7137,7 +7546,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0D4 u1B0D5 u1B0D6
 EndChar
 
 StartChar: uni3082
-Encoding: 187 12418 187
+Encoding: 199 12418 199
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7182,7 +7591,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0D7 u1B0D8 u1B0D9 u1B0DA u1B0DB u1
 EndChar
 
 StartChar: uni3083
-Encoding: 188 12419 188
+Encoding: 200 12419 200
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7226,7 +7635,7 @@ Substitution2: "Vertical forms subtable" uni3083.vert
 EndChar
 
 StartChar: uni3083.vert
-Encoding: 189 -1 189
+Encoding: 201 -1 201
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7270,7 +7679,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3084
-Encoding: 190 12420 190
+Encoding: 202 12420 202
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7314,7 +7723,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0DD u1B0DE u1B0DF u1B0E0 u1B0E1 u1
 EndChar
 
 StartChar: uni3085
-Encoding: 191 12421 191
+Encoding: 203 12421 203
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7361,7 +7770,7 @@ Substitution2: "Vertical forms subtable" uni3085.vert
 EndChar
 
 StartChar: uni3085.vert
-Encoding: 192 -1 192
+Encoding: 204 -1 204
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7408,7 +7817,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3086
-Encoding: 193 12422 193
+Encoding: 205 12422 205
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7456,7 +7865,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0E3 u1B0E4 u1B0E5 u1B0E6
 EndChar
 
 StartChar: uni3087
-Encoding: 194 12423 194
+Encoding: 206 12423 206
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7497,7 +7906,7 @@ Substitution2: "Vertical forms subtable" uni3087.vert
 EndChar
 
 StartChar: uni3087.vert
-Encoding: 195 -1 195
+Encoding: 207 -1 207
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7538,7 +7947,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3088
-Encoding: 196 12424 196
+Encoding: 208 12424 208
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7579,7 +7988,7 @@ AlternateSubs2: "Historical Kana subtable" u1B0E7 u1B0E8 u1B0E9 u1B0EA u1B0EB u1
 EndChar
 
 StartChar: uni3089
-Encoding: 197 12425 197
+Encoding: 209 12425 209
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7612,8 +8021,16 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B0ED u1B0EE u1B0EF u1B0F0 u1B07D
 EndChar
 
+StartChar: uni3089_uni309A.ccmp
+Encoding: 210 -1 210
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni3089 uni309A
+EndChar
+
 StartChar: uni308A
-Encoding: 198 12426 198
+Encoding: 211 12426 211
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7640,8 +8057,16 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B0F1 u1B0F2 u1B0F3 u1B0F4 u1B0F5 u1B0F6 u1B0F7
 EndChar
 
+StartChar: uni308A_uni309A.ccmp
+Encoding: 212 -1 212
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni308A uni309A
+EndChar
+
 StartChar: uni308B
-Encoding: 199 12427 199
+Encoding: 213 12427 213
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7682,8 +8107,16 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B0F8 u1B0F9 u1B0FA u1B0FB u1B0FC u1B0FD
 EndChar
 
+StartChar: uni308B_uni309A.ccmp
+Encoding: 214 -1 214
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni308B uni309A
+EndChar
+
 StartChar: uni308C
-Encoding: 200 12428 200
+Encoding: 215 12428 215
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7730,8 +8163,16 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B0FE u1B0FF u1B100 u1B101
 EndChar
 
+StartChar: uni308C_uni309A.ccmp
+Encoding: 216 -1 216
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni308C uni309A
+EndChar
+
 StartChar: uni308D
-Encoding: 201 12429 201
+Encoding: 217 12429 217
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7762,8 +8203,16 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" u1B102 u1B103 u1B104 u1B105 u1B106 u1B107
 EndChar
 
+StartChar: uni308D_uni309A.ccmp
+Encoding: 218 -1 218
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni308D uni309A
+EndChar
+
 StartChar: uni308E
-Encoding: 202 12430 202
+Encoding: 219 12430 219
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7805,7 +8254,7 @@ Substitution2: "Vertical forms subtable" uni308E.vert
 EndChar
 
 StartChar: uni308E.vert
-Encoding: 203 -1 203
+Encoding: 220 -1 220
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7847,7 +8296,7 @@ Comment: "."
 EndChar
 
 StartChar: uni308F
-Encoding: 204 12431 204
+Encoding: 221 12431 221
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7891,7 +8340,7 @@ AlternateSubs2: "Historical Kana subtable" u1B108 u1B109 u1B10A u1B10B u1B10C
 EndChar
 
 StartChar: uni3090
-Encoding: 205 12432 205
+Encoding: 222 12432 222
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -7944,7 +8393,7 @@ AlternateSubs2: "Historical Kana subtable" u1B10D u1B10E u1B10F u1B110 u1B111
 EndChar
 
 StartChar: uni3091
-Encoding: 206 12433 206
+Encoding: 223 12433 223
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8000,7 +8449,7 @@ AlternateSubs2: "Historical Kana subtable" u1B112 u1B113 u1B114 u1B115
 EndChar
 
 StartChar: uni3092
-Encoding: 207 12434 207
+Encoding: 224 12434 224
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8049,7 +8498,7 @@ AlternateSubs2: "Historical Kana subtable" u1B116 u1B117 u1B118 u1B119 u1B11A u1
 EndChar
 
 StartChar: uni3093
-Encoding: 208 12435 208
+Encoding: 225 12435 225
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8082,7 +8531,7 @@ AlternateSubs2: "Historical Kana subtable" u1B11D u1B11E
 EndChar
 
 StartChar: uni3093_uni3099.ccmp
-Encoding: 209 -1 209
+Encoding: 226 -1 226
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8129,7 +8578,7 @@ Ligature2: "Dakuten and handakuten subtable" uni3093 uni3099
 EndChar
 
 StartChar: uni3094
-Encoding: 210 12436 210
+Encoding: 227 12436 227
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8173,7 +8622,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni3095
-Encoding: 211 12437 211
+Encoding: 228 12437 228
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8218,7 +8667,7 @@ Substitution2: "Vertical forms subtable" uni3095.vert
 EndChar
 
 StartChar: uni3095.vert
-Encoding: 212 -1 212
+Encoding: 229 -1 229
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8262,7 +8711,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3096
-Encoding: 213 12438 213
+Encoding: 230 12438 230
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8312,7 +8761,7 @@ Substitution2: "Vertical forms subtable" uni3096.vert
 EndChar
 
 StartChar: uni3096.vert
-Encoding: 214 -1 214
+Encoding: 231 -1 231
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8358,7 +8807,7 @@ Comment: "."
 EndChar
 
 StartChar: uni3099
-Encoding: 215 12441 215
+Encoding: 232 12441 232
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -8383,7 +8832,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni309A
-Encoding: 216 12442 216
+Encoding: 233 12442 233
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -8408,7 +8857,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni309B
-Encoding: 217 12443 217
+Encoding: 234 12443 234
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8432,7 +8881,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni309C
-Encoding: 218 12444 218
+Encoding: 235 12444 235
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8456,7 +8905,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni309D
-Encoding: 219 12445 219
+Encoding: 236 12445 236
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8476,7 +8925,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni309E
-Encoding: 220 12446 220
+Encoding: 237 12446 237
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8510,7 +8959,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni309F
-Encoding: 221 12447 221
+Encoding: 238 12447 238
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8545,7 +8994,7 @@ Ligature2: "Historical Kana ligatures subtable" uni3088 uni308A
 EndChar
 
 StartChar: uni30A1
-Encoding: 222 12449 222
+Encoding: 239 12449 239
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8580,7 +9029,7 @@ Substitution2: "Vertical forms subtable" uni30A1.vert
 EndChar
 
 StartChar: uni30A1.vert
-Encoding: 223 -1 223
+Encoding: 240 -1 240
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8614,7 +9063,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30A2
-Encoding: 224 12450 224
+Encoding: 241 12450 241
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8648,7 +9097,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30A2_uni3099.ccmp
-Encoding: 225 -1 225
+Encoding: 242 -1 242
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8697,8 +9146,16 @@ LCarets2: 1 0
 Ligature2: "Dakuten and handakuten subtable" uni30A2 uni3099
 EndChar
 
+StartChar: uni30A2_uni309A.ccmp
+Encoding: 243 -1 243
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30A2 uni309A
+EndChar
+
 StartChar: uni30A3
-Encoding: 226 12451 226
+Encoding: 244 12451 244
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8724,7 +9181,7 @@ Substitution2: "Vertical forms subtable" uni30A3.vert
 EndChar
 
 StartChar: uni30A3.vert
-Encoding: 227 -1 227
+Encoding: 245 -1 245
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8749,7 +9206,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30A4
-Encoding: 228 12452 228
+Encoding: 246 12452 246
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8773,7 +9230,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30A4_uni3099.ccmp
-Encoding: 229 -1 229
+Encoding: 247 -1 247
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8811,8 +9268,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni30A4 uni3099
 EndChar
 
+StartChar: uni30A4_uni309A.ccmp
+Encoding: 248 -1 248
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30A4 uni309A
+EndChar
+
 StartChar: uni30A5
-Encoding: 230 12453 230
+Encoding: 249 12453 249
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8851,7 +9316,7 @@ Substitution2: "Vertical forms subtable" uni30A5.vert
 EndChar
 
 StartChar: uni30A5.vert
-Encoding: 231 -1 231
+Encoding: 250 -1 250
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8889,7 +9354,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30A6
-Encoding: 232 12454 232
+Encoding: 251 12454 251
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8926,8 +9391,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30A6_uni309A.ccmp
+Encoding: 252 -1 252
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30A6 uni309A
+EndChar
+
 StartChar: uni30A7
-Encoding: 233 12455 233
+Encoding: 253 12455 253
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8961,7 +9434,7 @@ Substitution2: "Vertical forms subtable" uni30A7.vert
 EndChar
 
 StartChar: uni30A7.vert
-Encoding: 234 -1 234
+Encoding: 254 -1 254
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -8995,7 +9468,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30A8
-Encoding: 235 12456 235
+Encoding: 255 12456 255
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9028,7 +9501,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30A8_uni3099.ccmp
-Encoding: 236 -1 236
+Encoding: 256 -1 256
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9075,8 +9548,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni30A8 uni3099
 EndChar
 
+StartChar: uni30A8_uni309A.ccmp
+Encoding: 257 -1 257
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30A8 uni309A
+EndChar
+
 StartChar: uni30A9
-Encoding: 237 12457 237
+Encoding: 258 12457 258
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9115,7 +9596,7 @@ Substitution2: "Vertical forms subtable" uni30A9.vert
 EndChar
 
 StartChar: uni30A9.vert
-Encoding: 238 -1 238
+Encoding: 259 -1 259
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9154,7 +9635,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30AA
-Encoding: 239 12458 239
+Encoding: 260 12458 260
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9192,7 +9673,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30AA_uni3099.ccmp
-Encoding: 240 -1 240
+Encoding: 261 -1 261
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9244,8 +9725,16 @@ EndSplineSet
 Ligature2: "Dakuten and handakuten subtable" uni30AA uni3099
 EndChar
 
+StartChar: uni30AA_uni309A.ccmp
+Encoding: 262 -1 262
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30AA uni309A
+EndChar
+
 StartChar: uni30AB
-Encoding: 241 12459 241
+Encoding: 263 12459 263
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9285,7 +9774,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30AC
-Encoding: 242 12460 242
+Encoding: 264 12460 264
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9339,7 +9828,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30AB_uni309A.ccmp
-Encoding: 243 -1 243
+Encoding: 265 -1 265
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9394,7 +9883,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30AB uni309A
 EndChar
 
 StartChar: uni30AD
-Encoding: 244 12461 244
+Encoding: 266 12461 266
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9439,7 +9928,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30AE
-Encoding: 245 12462 245
+Encoding: 267 12462 267
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9498,7 +9987,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30AD_uni309A.ccmp
-Encoding: 246 -1 246
+Encoding: 268 -1 268
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9558,7 +10047,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30AD uni309A
 EndChar
 
 StartChar: uni30AF
-Encoding: 247 12463 247
+Encoding: 269 12463 269
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9589,7 +10078,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B0
-Encoding: 248 12464 248
+Encoding: 270 12464 270
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9634,7 +10123,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30AF_uni309A.ccmp
-Encoding: 249 -1 249
+Encoding: 271 -1 271
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9680,7 +10169,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30AF uni309A
 EndChar
 
 StartChar: uni30B1
-Encoding: 250 12465 250
+Encoding: 272 12465 272
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9711,7 +10200,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B2
-Encoding: 251 12466 251
+Encoding: 273 12466 273
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9756,7 +10245,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B1_uni309A.ccmp
-Encoding: 252 -1 252
+Encoding: 274 -1 274
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9802,7 +10291,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30B1 uni309A
 EndChar
 
 StartChar: uni30B3
-Encoding: 253 12467 253
+Encoding: 275 12467 275
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9832,7 +10321,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B4
-Encoding: 254 12468 254
+Encoding: 276 12468 276
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9876,7 +10365,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B3_uni309A.ccmp
-Encoding: 255 -1 255
+Encoding: 277 -1 277
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9919,7 +10408,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30B3 uni309A
 EndChar
 
 StartChar: uni30B5
-Encoding: 256 12469 256
+Encoding: 278 12469 278
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -9964,7 +10453,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B6
-Encoding: 257 12470 257
+Encoding: 279 12470 279
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10022,8 +10511,68 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30B5_uni309A.ccmp
+Encoding: 280 -1 280
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+873 732 m 0
+ 863 743 849 749 833 749 c 0
+ 817 749 803 742 792 732 c 0
+ 783 721 776 707 776 691 c 0
+ 776 659 801 634 833 634 c 0
+ 864 634 889 659 889 691 c 0
+ 889 707 883 722 873 732 c 0
+902 762 m 0
+ 920 744 931 719 931 691 c 0
+ 931 663 920 638 902 620 c 0
+ 884 602 860 591 833 591 c 0
+ 777 591 735 635 735 691 c 0
+ 735 747 777 791 833 791 c 0
+ 860 791 885 780 902 762 c 0
+480 545 m 1
+ 614 545 l 1
+ 614 665 l 2
+ 614 703 611 735 610 744 c 1
+ 695 744 l 1
+ 694 734 690 703 690 665 c 2
+ 690 545 l 1
+ 792 545 l 2
+ 835 545 866 548 879 551 c 1
+ 879 469 l 1
+ 868 470 835 472 793 472 c 2
+ 690 472 l 1
+ 690 438 l 2
+ 690 183 635 50 421 -47 c 1
+ 358 14 l 1
+ 529 80 614 163 614 432 c 2
+ 614 472 l 1
+ 480 472 l 1
+ 347 472 l 1
+ 347 316 l 2
+ 347 281 350 239 351 230 c 1
+ 267 230 l 1
+ 268 239 272 280 272 316 c 2
+ 272 472 l 1
+ 170 472 l 2
+ 129 472 86 469 76 468 c 1
+ 76 552 l 1
+ 85 550 131 545 170 545 c 2
+ 272 545 l 1
+ 272 668 l 2
+ 272 689 270 716 267 738 c 1
+ 351 738 l 1
+ 350 729 347 701 347 669 c 2
+ 347 545 l 1
+ 480 545 l 1
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni30B5 uni309A
+EndChar
+
 StartChar: uni30B7
-Encoding: 258 12471 258
+Encoding: 281 12471 281
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10056,7 +10605,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30B8
-Encoding: 259 12472 259
+Encoding: 282 12472 282
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10102,8 +10651,56 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30B7_uni309A.ccmp
+Encoding: 283 -1 283
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+825 710 m 0
+ 815 721 801 727 785 727 c 0
+ 769 727 755 720 744 710 c 0
+ 735 699 728 685 728 669 c 0
+ 728 637 753 612 785 612 c 0
+ 816 612 841 637 841 669 c 0
+ 841 685 835 700 825 710 c 0
+854 740 m 0
+ 872 722 883 697 883 669 c 0
+ 883 641 872 616 854 598 c 0
+ 836 580 812 569 785 569 c 0
+ 729 569 687 613 687 669 c 0
+ 687 725 729 769 785 769 c 0
+ 812 769 837 758 854 740 c 0
+364 613 m 0
+ 326 639 287 664 259 680 c 1
+ 302 745 l 1
+ 330 729 370 702 410 676 c 0
+ 448 650 486 625 506 609 c 1
+ 461 543 l 1
+ 439 561 402 587 364 613 c 0
+182 19 m 1
+ 161 58 l 1
+ 263 76 381 115 476 170 c 0
+ 632 261 756 386 832 522 c 1
+ 854 482 l 1
+ 877 442 l 1
+ 795 314 665 190 515 99 c 0
+ 421 43 291 -1 204 -20 c 1
+ 182 19 l 1
+268 464 m 0
+ 308 439 346 414 366 399 c 1
+ 323 332 l 1
+ 300 349 263 375 225 399 c 0
+ 186 424 147 449 117 463 c 1
+ 160 529 l 1
+ 188 514 229 489 268 464 c 0
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni30B7 uni309A
+EndChar
+
 StartChar: uni30B9
-Encoding: 260 12473 260
+Encoding: 284 12473 284
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10133,7 +10730,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30BA
-Encoding: 261 12474 261
+Encoding: 285 12474 285
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10176,8 +10773,53 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30B9_uni309A.ccmp
+Encoding: 286 -1 286
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+863 772 m 0
+ 853 783 839 789 823 789 c 0
+ 807 789 793 782 782 772 c 0
+ 773 761 766 747 766 731 c 0
+ 766 699 791 674 823 674 c 0
+ 854 674 879 699 879 731 c 0
+ 879 747 873 762 863 772 c 0
+892 802 m 0
+ 910 784 921 759 921 731 c 0
+ 921 703 910 678 892 660 c 0
+ 874 642 850 631 823 631 c 0
+ 767 631 725 675 725 731 c 0
+ 725 787 767 831 823 831 c 0
+ 850 831 875 820 892 802 c 0
+823 0 m 1
+ 790 -29 l 1
+ 727 56 628 169 532 257 c 1
+ 431 146 304 41 165 -24 c 1
+ 135 7 l 1
+ 105 40 l 1
+ 257 100 396 215 492 325 c 0
+ 556 399 625 513 649 593 c 1
+ 615 593 315 593 282 593 c 0
+ 249 593 197 589 187 588 c 1
+ 187 674 l 1
+ 200 673 254 669 282 669 c 0
+ 320 669 610 669 645 669 c 0
+ 676 669 700 672 715 676 c 1
+ 739 657 769 630 767 627 c 0
+ 764 622 758 630 752 620 c 0
+ 747 613 743 604 740 598 c 0
+ 708 514 649 402 582 315 c 1
+ 680 229 795 104 856 29 c 1
+ 823 0 l 1
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni30B9 uni309A
+EndChar
+
 StartChar: uni30BB
-Encoding: 262 12475 262
+Encoding: 287 12475 287
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10214,7 +10856,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30BC
-Encoding: 263 12476 263
+Encoding: 288 12476 288
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10265,7 +10907,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30BB_uni309A.ccmp
-Encoding: 264 -1 264
+Encoding: 289 -1 289
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10317,7 +10959,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30BB uni309A
 EndChar
 
 StartChar: uni30BD
-Encoding: 265 12477 265
+Encoding: 290 12477 290
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10345,7 +10987,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30BE
-Encoding: 266 12478 266
+Encoding: 291 12478 291
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10384,8 +11026,50 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30BD_uni309A.ccmp
+Encoding: 292 -1 292
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+842 778 m 0
+ 832 789 818 795 802 795 c 0
+ 786 795 772 788 761 778 c 0
+ 752 767 745 753 745 737 c 0
+ 745 705 770 680 802 680 c 0
+ 833 680 858 705 858 737 c 0
+ 858 753 852 768 842 778 c 0
+871 808 m 0
+ 889 790 900 765 900 737 c 0
+ 900 709 889 684 871 666 c 0
+ 853 648 829 637 802 637 c 0
+ 746 637 704 681 704 737 c 0
+ 704 793 746 837 802 837 c 0
+ 829 837 854 826 871 808 c 0
+299 -20 m 1
+ 264 11 l 1
+ 588 152 673 412 702 557 c 0
+ 708 582 712 616 712 634 c 1
+ 759 624 l 1
+ 805 615 l 1
+ 796 591 788 559 785 546 c 0
+ 740 353 646 106 334 -50 c 1
+ 299 -20 l 1
+209 501 m 0
+ 180 553 151 601 132 628 c 1
+ 205 666 l 1
+ 247 604 330 456 364 394 c 1
+ 326 371 l 1
+ 289 350 l 1
+ 269 394 239 449 209 501 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Dakuten and handakuten subtable" uni30BD uni309A
+EndChar
+
 StartChar: uni30BF
-Encoding: 267 12479 267
+Encoding: 293 12479 293
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10422,7 +11106,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C0
-Encoding: 268 12480 268
+Encoding: 294 12480 294
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10470,7 +11154,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C1
-Encoding: 269 12481 269
+Encoding: 295 12481 295
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10505,7 +11189,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C2
-Encoding: 270 12482 270
+Encoding: 296 12482 296
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10554,7 +11238,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C3
-Encoding: 271 12483 271
+Encoding: 297 12483 297
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10590,7 +11274,7 @@ Substitution2: "Vertical forms subtable" uni30C3.vert
 EndChar
 
 StartChar: uni30C3.vert
-Encoding: 272 -1 272
+Encoding: 298 -1 298
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10625,7 +11309,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30C4
-Encoding: 273 12484 273
+Encoding: 299 12484 299
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10659,7 +11343,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C5
-Encoding: 274 12485 274
+Encoding: 300 12485 300
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10707,7 +11391,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C4_uni309A.ccmp
-Encoding: 275 -1 275
+Encoding: 301 -1 301
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10756,7 +11440,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30C4 uni309A
 EndChar
 
 StartChar: uni30C6
-Encoding: 276 12486 276
+Encoding: 302 12486 302
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10794,7 +11478,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C7
-Encoding: 277 12487 277
+Encoding: 303 12487 303
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10846,7 +11530,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C8
-Encoding: 278 12488 278
+Encoding: 304 12488 304
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10871,7 +11555,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C9
-Encoding: 279 12489 279
+Encoding: 305 12489 305
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10910,7 +11594,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30C8_uni309A.ccmp
-Encoding: 280 -1 280
+Encoding: 306 -1 306
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10950,7 +11634,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30C8 uni309A
 EndChar
 
 StartChar: uni30CA
-Encoding: 281 12490 281
+Encoding: 307 12490 307
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -10981,7 +11665,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30CB
-Encoding: 282 12491 282
+Encoding: 308 12491 308
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11013,7 +11697,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30CC
-Encoding: 283 12492 283
+Encoding: 309 12492 309
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11046,7 +11730,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30CD
-Encoding: 284 12493 284
+Encoding: 310 12493 310
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11092,7 +11776,7 @@ AlternateSubs2: "Historical Kana subtable" uni30CD.hist
 EndChar
 
 StartChar: uni30CD.hist
-Encoding: 285 -1 285
+Encoding: 311 -1 311
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11144,7 +11828,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30CE
-Encoding: 286 12494 286
+Encoding: 312 12494 312
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11164,7 +11848,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30CF
-Encoding: 287 12495 287
+Encoding: 313 12495 313
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11193,7 +11877,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D0
-Encoding: 288 12496 288
+Encoding: 314 12496 314
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11236,7 +11920,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D1
-Encoding: 289 12497 289
+Encoding: 315 12497 315
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11279,7 +11963,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D2
-Encoding: 290 12498 290
+Encoding: 316 12498 316
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11310,7 +11994,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D3
-Encoding: 291 12499 291
+Encoding: 317 12499 317
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11355,7 +12039,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D4
-Encoding: 292 12500 292
+Encoding: 318 12500 318
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11400,7 +12084,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D5
-Encoding: 293 12501 293
+Encoding: 319 12501 319
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11427,7 +12111,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D6
-Encoding: 294 12502 294
+Encoding: 320 12502 320
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11464,7 +12148,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D7
-Encoding: 295 12503 295
+Encoding: 321 12503 321
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11501,7 +12185,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D8
-Encoding: 296 12504 296
+Encoding: 322 12504 322
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11526,7 +12210,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30D9
-Encoding: 297 12505 297
+Encoding: 323 12505 323
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11565,7 +12249,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30DA
-Encoding: 298 12506 298
+Encoding: 324 12506 324
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11604,7 +12288,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30DB
-Encoding: 299 12507 299
+Encoding: 325 12507 325
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11656,7 +12340,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30DC
-Encoding: 300 12508 300
+Encoding: 326 12508 326
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11722,7 +12406,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30DD
-Encoding: 301 12509 301
+Encoding: 327 12509 327
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11788,7 +12472,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30DE
-Encoding: 302 12510 302
+Encoding: 328 12510 328
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11818,7 +12502,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30DF
-Encoding: 303 12511 303
+Encoding: 329 12511 329
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11849,7 +12533,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E0
-Encoding: 304 12512 304
+Encoding: 330 12512 330
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11878,7 +12562,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E1
-Encoding: 305 12513 305
+Encoding: 331 12513 331
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11905,7 +12589,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E2
-Encoding: 306 12514 306
+Encoding: 332 12514 332
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11946,7 +12630,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E3
-Encoding: 307 12515 307
+Encoding: 333 12515 333
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -11982,7 +12666,7 @@ Substitution2: "Vertical forms subtable" uni30E3.vert
 EndChar
 
 StartChar: uni30E3.vert
-Encoding: 308 -1 308
+Encoding: 334 -1 334
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12017,7 +12701,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30E4
-Encoding: 309 12516 309
+Encoding: 335 12516 335
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12052,7 +12736,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E5
-Encoding: 310 12517 310
+Encoding: 336 12517 336
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12086,7 +12770,7 @@ Substitution2: "Vertical forms subtable" uni30E5.vert
 EndChar
 
 StartChar: uni30E5.vert
-Encoding: 311 -1 311
+Encoding: 337 -1 337
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12119,7 +12803,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30E6
-Encoding: 312 12518 312
+Encoding: 338 12518 338
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12152,7 +12836,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E7
-Encoding: 313 12519 313
+Encoding: 339 12519 339
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12189,7 +12873,7 @@ Substitution2: "Vertical forms subtable" uni30E7.vert
 EndChar
 
 StartChar: uni30E7.vert
-Encoding: 314 -1 314
+Encoding: 340 -1 340
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12226,7 +12910,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30E8
-Encoding: 315 12520 315
+Encoding: 341 12520 341
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12262,7 +12946,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30E9
-Encoding: 316 12521 316
+Encoding: 342 12521 342
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12299,8 +12983,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30E9_uni309A.ccmp
+Encoding: 343 -1 343
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30E9 uni309A
+EndChar
+
 StartChar: uni30EA
-Encoding: 317 12522 317
+Encoding: 344 12522 344
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12333,8 +13025,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30EA_uni309A.ccmp
+Encoding: 345 -1 345
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30EA uni309A
+EndChar
+
 StartChar: uni30EB
-Encoding: 318 12523 318
+Encoding: 346 12523 346
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12368,8 +13068,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30EB_uni309A.ccmp
+Encoding: 347 -1 347
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30EB uni309A
+EndChar
+
 StartChar: uni30EC
-Encoding: 319 12524 319
+Encoding: 348 12524 348
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12392,8 +13100,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30EC_uni309A.ccmp
+Encoding: 349 -1 349
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30EC uni309A
+EndChar
+
 StartChar: uni30ED
-Encoding: 320 12525 320
+Encoding: 350 12525 350
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12426,8 +13142,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni30ED_uni309A.ccmp
+Encoding: 351 -1 351
+Width: 1000
+Flags: W
+LayerCount: 2
+Ligature2: "Dakuten and handakuten subtable" uni30ED uni309A
+EndChar
+
 StartChar: uni30EE
-Encoding: 321 12526 321
+Encoding: 352 12526 352
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12459,7 +13183,7 @@ Substitution2: "Vertical forms subtable" uni30EE.vert
 EndChar
 
 StartChar: uni30EE.vert
-Encoding: 322 -1 322
+Encoding: 353 -1 353
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12490,7 +13214,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30EF
-Encoding: 323 12527 323
+Encoding: 354 12527 354
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12521,7 +13245,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F0
-Encoding: 324 12528 324
+Encoding: 355 12528 355
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12574,7 +13298,7 @@ AlternateSubs2: "Historical Kana subtable" uni30F0.hist
 EndChar
 
 StartChar: uni30F0.hist
-Encoding: 325 -1 325
+Encoding: 356 -1 356
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12645,7 +13369,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F1
-Encoding: 326 12529 326
+Encoding: 357 12529 357
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12687,7 +13411,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F2
-Encoding: 327 12530 327
+Encoding: 358 12530 358
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12720,7 +13444,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F3
-Encoding: 328 12531 328
+Encoding: 359 12531 359
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12746,7 +13470,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F3_uni3099.ccmp
-Encoding: 329 -1 329
+Encoding: 360 -1 360
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12787,7 +13511,7 @@ Ligature2: "Dakuten and handakuten subtable" uni30F3 uni3099
 EndChar
 
 StartChar: uni30F4
-Encoding: 330 12532 330
+Encoding: 361 12532 361
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12839,7 +13563,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F5
-Encoding: 331 12533 331
+Encoding: 362 12533 362
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12880,7 +13604,7 @@ Substitution2: "Vertical forms subtable" uni30F5.vert
 EndChar
 
 StartChar: uni30F5.vert
-Encoding: 332 -1 332
+Encoding: 363 -1 363
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12920,7 +13644,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30F6
-Encoding: 333 12534 333
+Encoding: 364 12534 364
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12953,7 +13677,7 @@ Substitution2: "Vertical forms subtable" uni30F6.vert
 EndChar
 
 StartChar: uni30F6.vert
-Encoding: 334 -1 334
+Encoding: 365 -1 365
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -12985,7 +13709,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30F7
-Encoding: 335 12535 335
+Encoding: 366 12535 366
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13030,7 +13754,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F8
-Encoding: 336 12536 336
+Encoding: 367 12536 367
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13097,7 +13821,7 @@ AlternateSubs2: "Historical Kana subtable" uni30F8.hist
 EndChar
 
 StartChar: uni30F8.hist
-Encoding: 337 -1 337
+Encoding: 368 -1 368
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13183,7 +13907,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30F9
-Encoding: 338 12537 338
+Encoding: 369 12537 369
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13239,7 +13963,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30FA
-Encoding: 339 12538 339
+Encoding: 370 12538 370
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13286,7 +14010,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30FB
-Encoding: 340 12539 340
+Encoding: 371 12539 371
 Width: 1060
 Flags: W
 LayerCount: 2
@@ -13303,7 +14027,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30FC
-Encoding: 341 12540 341
+Encoding: 372 12540 372
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13325,7 +14049,7 @@ Substitution2: "Vertical forms subtable" uni30FC.vert
 EndChar
 
 StartChar: uni30FC.vert
-Encoding: 342 -1 342
+Encoding: 373 -1 373
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13347,7 +14071,7 @@ Comment: "."
 EndChar
 
 StartChar: uni30FD
-Encoding: 343 12541 343
+Encoding: 374 12541 374
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13364,7 +14088,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30FE
-Encoding: 344 12542 344
+Encoding: 375 12542 375
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13395,7 +14119,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni30FF
-Encoding: 345 12543 345
+Encoding: 376 12543 376
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13421,8 +14145,50 @@ EndSplineSet
 Ligature2: "Historical Kana ligatures subtable" uni30B3 uni30C8
 EndChar
 
+StartChar: uni30FF_uni3099.ccmp
+Encoding: 377 -1 377
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+787 758 m 0
+ 801 734 814 710 824 690 c 1
+ 773 667 l 1
+ 764 686 752 710 737 734 c 0
+ 724 758 710 781 697 800 c 1
+ 747 822 l 1
+ 759 805 773 781 787 758 c 0
+892 795 m 0
+ 906 771 920 747 928 729 c 1
+ 878 706 l 1
+ 868 728 855 752 842 775 c 0
+ 828 798 814 821 800 838 c 1
+ 850 860 l 1
+ 863 843 878 819 892 795 c 0
+706 311 m 1
+ 706 114 l 2
+ 706 48 709 -33 714 -82 c 1
+ 706 -88 629 -88 621 -82 c 1
+ 626 -7 629 118 629 218 c 2
+ 629 632 l 1
+ 388 632 l 2
+ 307 632 227 629 147 624 c 1
+ 143 632 143 705 147 711 c 1
+ 181 707 239 705 286 705 c 2
+ 426 705 l 1
+ 566 705 l 2
+ 614 705 671 707 706 711 c 0
+ 714 711 714 707 714 705 c 0
+ 709 656 706 575 706 508 c 2
+ 706 311 l 1
+EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" uni30FF uni3099
+Ligature2: "Historical Kana ligatures subtable" uni30B4 uni30C8
+EndChar
+
 StartChar: uni31F0
-Encoding: 346 12784 346
+Encoding: 378 12784 378
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13455,7 +14221,7 @@ Substitution2: "Vertical forms subtable" uni31F0.vert
 EndChar
 
 StartChar: uni31F0.vert
-Encoding: 347 -1 347
+Encoding: 379 -1 379
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13486,7 +14252,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F1
-Encoding: 348 12785 348
+Encoding: 380 12785 380
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13520,7 +14286,7 @@ Substitution2: "Vertical forms subtable" uni31F1.vert
 EndChar
 
 StartChar: uni31F1.vert
-Encoding: 349 -1 349
+Encoding: 381 -1 381
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13554,7 +14320,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F2
-Encoding: 350 12786 350
+Encoding: 382 12786 382
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13585,7 +14351,7 @@ Substitution2: "Vertical forms subtable" uni31F2.vert
 EndChar
 
 StartChar: uni31F2.vert
-Encoding: 351 -1 351
+Encoding: 383 -1 383
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13615,7 +14381,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F3
-Encoding: 352 12787 352
+Encoding: 384 12787 384
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13641,7 +14407,7 @@ Substitution2: "Vertical forms subtable" uni31F3.vert
 EndChar
 
 StartChar: uni31F3.vert
-Encoding: 353 -1 353
+Encoding: 385 -1 385
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13667,7 +14433,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F4
-Encoding: 354 12788 354
+Encoding: 386 12788 386
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13701,7 +14467,7 @@ Substitution2: "Vertical forms subtable" uni31F4.vert
 EndChar
 
 StartChar: uni31F4.vert
-Encoding: 355 -1 355
+Encoding: 387 -1 387
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13734,7 +14500,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F5
-Encoding: 356 12789 356
+Encoding: 388 12789 388
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13765,7 +14531,7 @@ Substitution2: "Vertical forms subtable" uni31F5.vert
 EndChar
 
 StartChar: uni31F5.vert
-Encoding: 357 -1 357
+Encoding: 389 -1 389
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13795,7 +14561,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F6
-Encoding: 358 12790 358
+Encoding: 390 12790 390
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13827,7 +14593,7 @@ Substitution2: "Vertical forms subtable" uni31F6.vert
 EndChar
 
 StartChar: uni31F6.vert
-Encoding: 359 -1 359
+Encoding: 391 -1 391
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13859,7 +14625,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F7
-Encoding: 360 12791 360
+Encoding: 392 12791 392
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13887,7 +14653,7 @@ Substitution2: "Vertical forms subtable" uni31F7.vert
 EndChar
 
 StartChar: uni31F7.vert
-Encoding: 361 -1 361
+Encoding: 393 -1 393
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13914,7 +14680,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F7_uni309A.ccmp
-Encoding: 362 -1 362
+Encoding: 394 -1 394
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13953,7 +14719,7 @@ Ligature2: "Dakuten and handakuten subtable" uni31F7 uni309A
 EndChar
 
 StartChar: uni31F7_uni309A.ccmp.vert
-Encoding: 363 -1 363
+Encoding: 395 -1 395
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -13994,7 +14760,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F8
-Encoding: 364 12792 364
+Encoding: 396 12792 396
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14020,7 +14786,7 @@ Substitution2: "Vertical forms subtable" uni31F8.vert
 EndChar
 
 StartChar: uni31F8.vert
-Encoding: 365 -1 365
+Encoding: 397 -1 397
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14046,7 +14812,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31F9
-Encoding: 366 12793 366
+Encoding: 398 12793 398
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14099,7 +14865,7 @@ Substitution2: "Vertical forms subtable" uni31F9.vert
 EndChar
 
 StartChar: uni31F9.vert
-Encoding: 367 -1 367
+Encoding: 399 -1 399
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14149,7 +14915,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31FA
-Encoding: 368 12794 368
+Encoding: 400 12794 400
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14179,7 +14945,7 @@ Substitution2: "Vertical forms subtable" uni31FA.vert
 EndChar
 
 StartChar: uni31FA.vert
-Encoding: 369 -1 369
+Encoding: 401 -1 401
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14209,7 +14975,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31FB
-Encoding: 370 12795 370
+Encoding: 402 12795 402
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14248,7 +15014,7 @@ Substitution2: "Vertical forms subtable" uni31FB.vert
 EndChar
 
 StartChar: uni31FB.vert
-Encoding: 371 -1 371
+Encoding: 403 -1 403
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14286,7 +15052,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31FC
-Encoding: 372 12796 372
+Encoding: 404 12796 404
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14321,7 +15087,7 @@ Substitution2: "Vertical forms subtable" uni31FC.vert
 EndChar
 
 StartChar: uni31FC.vert
-Encoding: 373 -1 373
+Encoding: 405 -1 405
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14356,7 +15122,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31FD
-Encoding: 374 12797 374
+Encoding: 406 12797 406
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14392,7 +15158,7 @@ Substitution2: "Vertical forms subtable" uni31FD.vert
 EndChar
 
 StartChar: uni31FD.vert
-Encoding: 375 -1 375
+Encoding: 407 -1 407
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14428,7 +15194,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31FE
-Encoding: 376 12798 376
+Encoding: 408 12798 408
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14453,7 +15219,7 @@ Substitution2: "Vertical forms subtable" uni31FE.vert
 EndChar
 
 StartChar: uni31FE.vert
-Encoding: 377 -1 377
+Encoding: 409 -1 409
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14478,7 +15244,7 @@ Comment: "."
 EndChar
 
 StartChar: uni31FF
-Encoding: 378 12799 378
+Encoding: 410 12799 410
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14513,7 +15279,7 @@ Substitution2: "Vertical forms subtable" uni31FF.vert
 EndChar
 
 StartChar: uni31FF.vert
-Encoding: 379 -1 379
+Encoding: 411 -1 411
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -14548,7 +15314,7 @@ Comment: "."
 EndChar
 
 StartChar: u1B000
-Encoding: 380 110592 380
+Encoding: 412 110592 412
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -14590,7 +15356,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B001
-Encoding: 381 110593 381
+Encoding: 413 110593 413
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -14656,7 +15422,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B002
-Encoding: 382 110594 382
+Encoding: 414 110594 414
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -14758,7 +15524,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B003
-Encoding: 383 110595 383
+Encoding: 415 110595 415
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -14823,7 +15589,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B004
-Encoding: 384 110596 384
+Encoding: 416 110596 416
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -14889,7 +15655,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B005
-Encoding: 385 110597 385
+Encoding: 417 110597 417
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -14956,7 +15722,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B006
-Encoding: 386 110598 386
+Encoding: 418 110598 418
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15007,7 +15773,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B007
-Encoding: 387 110599 387
+Encoding: 419 110599 419
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15082,7 +15848,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B008
-Encoding: 388 110600 388
+Encoding: 420 110600 420
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15148,7 +15914,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B009
-Encoding: 389 110601 389
+Encoding: 421 110601 421
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15244,7 +16010,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B00A
-Encoding: 390 110602 390
+Encoding: 422 110602 422
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15309,7 +16075,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B00B
-Encoding: 391 110603 391
+Encoding: 423 110603 423
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15369,7 +16135,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B00C
-Encoding: 392 110604 392
+Encoding: 424 110604 424
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15475,7 +16241,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B00D
-Encoding: 393 110605 393
+Encoding: 425 110605 425
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15541,7 +16307,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B00E
-Encoding: 394 110606 394
+Encoding: 426 110606 426
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15610,7 +16376,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B00F
-Encoding: 395 110607 395
+Encoding: 427 110607 427
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15685,7 +16451,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B010
-Encoding: 396 110608 396
+Encoding: 428 110608 428
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15852,7 +16618,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B011
-Encoding: 397 110609 397
+Encoding: 429 110609 429
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15926,7 +16692,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B012
-Encoding: 398 110610 398
+Encoding: 430 110610 430
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -15985,7 +16751,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B013
-Encoding: 399 110611 399
+Encoding: 431 110611 431
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16092,7 +16858,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B014
-Encoding: 400 110612 400
+Encoding: 432 110612 432
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16181,7 +16947,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B015
-Encoding: 401 110613 401
+Encoding: 433 110613 433
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16247,7 +17013,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B016
-Encoding: 402 110614 402
+Encoding: 434 110614 434
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16372,7 +17138,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B017
-Encoding: 403 110615 403
+Encoding: 435 110615 435
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16483,7 +17249,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B017_uni3099.ccmp
-Encoding: 404 -1 404
+Encoding: 436 -1 436
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16609,7 +17375,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B018
-Encoding: 405 110616 405
+Encoding: 437 110616 437
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16714,7 +17480,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B018_uni3099.ccmp
-Encoding: 406 -1 406
+Encoding: 438 -1 438
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16832,7 +17598,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B019
-Encoding: 407 110617 407
+Encoding: 439 110617 439
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16871,7 +17637,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B019_uni3099.ccmp
-Encoding: 408 -1 408
+Encoding: 440 -1 440
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16923,7 +17689,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01A
-Encoding: 409 110618 409
+Encoding: 441 110618 441
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -16957,7 +17723,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01A_uni3099.ccmp
-Encoding: 410 -1 410
+Encoding: 442 -1 442
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17004,7 +17770,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01B
-Encoding: 411 110619 411
+Encoding: 443 110619 443
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17139,7 +17905,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B01B_uni3099.ccmp
-Encoding: 412 -1 412
+Encoding: 444 -1 444
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17289,7 +18055,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B01C
-Encoding: 413 110620 413
+Encoding: 445 110620 445
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17401,7 +18167,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B01C_uni3099.ccmp
-Encoding: 414 -1 414
+Encoding: 446 -1 446
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17526,7 +18292,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B01D
-Encoding: 415 110621 415
+Encoding: 447 110621 447
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17616,7 +18382,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01D_uni3099.ccmp
-Encoding: 416 -1 416
+Encoding: 448 -1 448
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17719,7 +18485,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01E
-Encoding: 417 110622 417
+Encoding: 449 110622 449
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17794,7 +18560,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01E_uni3099.ccmp
-Encoding: 418 -1 418
+Encoding: 450 -1 450
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17882,7 +18648,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01F
-Encoding: 419 110623 419
+Encoding: 451 110623 451
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -17961,7 +18727,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B01F_uni3099.ccmp
-Encoding: 420 -1 420
+Encoding: 452 -1 452
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18053,7 +18819,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B020
-Encoding: 421 110624 421
+Encoding: 453 110624 453
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18167,7 +18933,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B020_uni3099.ccmp
-Encoding: 422 -1 422
+Encoding: 454 -1 454
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18294,7 +19060,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B021
-Encoding: 423 110625 423
+Encoding: 455 110625 455
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18382,7 +19148,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B021_uni3099.ccmp
-Encoding: 424 -1 424
+Encoding: 456 -1 456
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18483,7 +19249,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B022
-Encoding: 425 110626 425
+Encoding: 457 110626 457
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18602,7 +19368,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B022_uni3099.ccmp
-Encoding: 426 -1 426
+Encoding: 458 -1 458
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18736,7 +19502,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B023
-Encoding: 427 110627 427
+Encoding: 459 110627 459
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18845,7 +19611,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B023_uni3099.ccmp
-Encoding: 428 -1 428
+Encoding: 460 -1 460
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -18969,7 +19735,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B024
-Encoding: 429 110628 429
+Encoding: 461 110628 461
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19059,7 +19825,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B024_uni3099.ccmp
-Encoding: 430 -1 430
+Encoding: 462 -1 462
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19162,7 +19928,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B025
-Encoding: 431 110629 431
+Encoding: 463 110629 463
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19288,7 +20054,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B025_uni3099.ccmp
-Encoding: 432 -1 432
+Encoding: 464 -1 464
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19429,7 +20195,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B026
-Encoding: 433 110630 433
+Encoding: 465 110630 465
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19479,7 +20245,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B026_uni3099.ccmp
-Encoding: 434 -1 434
+Encoding: 466 -1 466
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19542,7 +20308,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B027
-Encoding: 435 110631 435
+Encoding: 467 110631 467
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19607,7 +20373,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B027_uni3099.ccmp
-Encoding: 436 -1 436
+Encoding: 468 -1 468
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19685,7 +20451,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B028
-Encoding: 437 110632 437
+Encoding: 469 110632 469
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19786,7 +20552,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B028_uni3099.ccmp
-Encoding: 438 -1 438
+Encoding: 470 -1 470
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19902,7 +20668,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B029
-Encoding: 439 110633 439
+Encoding: 471 110633 471
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -19981,7 +20747,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B029_uni3099.ccmp
-Encoding: 440 -1 440
+Encoding: 472 -1 472
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20075,7 +20841,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02A
-Encoding: 441 110634 441
+Encoding: 473 110634 473
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20148,7 +20914,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B02A_uni3099.ccmp
-Encoding: 442 -1 442
+Encoding: 474 -1 474
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20234,7 +21000,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B02B
-Encoding: 443 110635 443
+Encoding: 475 110635 475
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20275,7 +21041,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B02B_uni3099.ccmp
-Encoding: 444 -1 444
+Encoding: 476 -1 476
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20329,7 +21095,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B02C
-Encoding: 445 110636 445
+Encoding: 477 110636 477
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20398,7 +21164,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02C_uni3099.ccmp
-Encoding: 446 -1 446
+Encoding: 478 -1 478
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20480,7 +21246,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02D
-Encoding: 447 110637 447
+Encoding: 479 110637 479
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20554,7 +21320,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02D_uni3099.ccmp
-Encoding: 448 -1 448
+Encoding: 480 -1 480
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20641,7 +21407,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02E
-Encoding: 449 110638 449
+Encoding: 481 110638 481
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20728,7 +21494,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02E_uni3099.ccmp
-Encoding: 450 -1 450
+Encoding: 482 -1 482
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20830,7 +21596,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02F
-Encoding: 451 110639 451
+Encoding: 483 110639 483
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -20935,7 +21701,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B02F_uni3099.ccmp
-Encoding: 452 -1 452
+Encoding: 484 -1 484
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21055,7 +21821,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B030
-Encoding: 453 110640 453
+Encoding: 485 110640 485
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21116,7 +21882,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B030_uni3099.ccmp
-Encoding: 454 -1 454
+Encoding: 486 -1 486
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21190,7 +21956,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B031
-Encoding: 455 110641 455
+Encoding: 487 110641 487
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21299,7 +22065,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B031_uni3099.ccmp
-Encoding: 456 -1 456
+Encoding: 488 -1 488
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21423,7 +22189,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B032
-Encoding: 457 110642 457
+Encoding: 489 110642 489
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21506,7 +22272,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B032_uni3099.ccmp
-Encoding: 458 -1 458
+Encoding: 490 -1 490
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21602,7 +22368,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B033
-Encoding: 459 110643 459
+Encoding: 491 110643 491
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21674,7 +22440,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B033_uni3099.ccmp
-Encoding: 460 -1 460
+Encoding: 492 -1 492
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21759,7 +22525,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B034
-Encoding: 461 110644 461
+Encoding: 493 110644 493
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21826,7 +22592,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B034_uni3099.ccmp
-Encoding: 462 -1 462
+Encoding: 494 -1 494
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -21906,7 +22672,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B035
-Encoding: 463 110645 463
+Encoding: 495 110645 495
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22063,7 +22829,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B035_uni3099.ccmp
-Encoding: 464 -1 464
+Encoding: 496 -1 496
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22235,7 +23001,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B036
-Encoding: 465 110646 465
+Encoding: 497 110646 497
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22320,7 +23086,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B036_uni3099.ccmp
-Encoding: 466 -1 466
+Encoding: 498 -1 498
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22420,7 +23186,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B037
-Encoding: 467 110647 467
+Encoding: 499 110647 499
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22487,7 +23253,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B037_uni3099.ccmp
-Encoding: 468 -1 468
+Encoding: 500 -1 500
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22567,7 +23333,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B038
-Encoding: 469 110648 469
+Encoding: 501 110648 501
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22627,7 +23393,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B038_uni3099.ccmp
-Encoding: 470 -1 470
+Encoding: 502 -1 502
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22700,7 +23466,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B039
-Encoding: 471 110649 471
+Encoding: 503 110649 503
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22814,7 +23580,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B039_uni3099.ccmp
-Encoding: 472 -1 472
+Encoding: 504 -1 504
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -22943,7 +23709,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03A
-Encoding: 473 110650 473
+Encoding: 505 110650 505
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23009,7 +23775,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B03A_uni3099.ccmp
-Encoding: 474 -1 474
+Encoding: 506 -1 506
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23088,7 +23854,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B03B
-Encoding: 475 110651 475
+Encoding: 507 110651 507
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23173,7 +23939,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03B_uni3099.ccmp
-Encoding: 476 -1 476
+Encoding: 508 -1 508
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23273,7 +24039,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03C
-Encoding: 477 110652 477
+Encoding: 509 110652 509
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23338,7 +24104,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03C_uni3099.ccmp
-Encoding: 478 -1 478
+Encoding: 510 -1 510
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23418,7 +24184,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03D
-Encoding: 479 110653 479
+Encoding: 511 110653 511
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23517,7 +24283,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03D_uni3099.ccmp
-Encoding: 480 -1 480
+Encoding: 512 -1 512
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23631,7 +24397,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03E
-Encoding: 481 110654 481
+Encoding: 513 110654 513
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23694,7 +24460,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03E_uni3099.ccmp
-Encoding: 482 -1 482
+Encoding: 514 -1 514
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23772,7 +24538,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B03F
-Encoding: 483 110655 483
+Encoding: 515 110655 515
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23828,7 +24594,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B03F_uni3099.ccmp
-Encoding: 484 -1 484
+Encoding: 516 -1 516
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -23899,7 +24665,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B040
-Encoding: 485 110656 485
+Encoding: 517 110656 517
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24033,7 +24799,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B040_uni3099.ccmp
-Encoding: 486 -1 486
+Encoding: 518 -1 518
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24182,7 +24948,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B041
-Encoding: 487 110657 487
+Encoding: 519 110657 519
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24285,7 +25051,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B041_uni3099.ccmp
-Encoding: 488 -1 488
+Encoding: 520 -1 520
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24401,7 +25167,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B042
-Encoding: 489 110658 489
+Encoding: 521 110658 521
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24514,7 +25280,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B042_uni3099.ccmp
-Encoding: 490 -1 490
+Encoding: 522 -1 522
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24642,7 +25408,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B043
-Encoding: 491 110659 491
+Encoding: 523 110659 523
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24718,7 +25484,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B043_uni3099.ccmp
-Encoding: 492 -1 492
+Encoding: 524 -1 524
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24807,7 +25573,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B044
-Encoding: 493 110660 493
+Encoding: 525 110660 525
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24864,7 +25630,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B044_uni3099.ccmp
-Encoding: 494 -1 494
+Encoding: 526 -1 526
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24934,7 +25700,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B045
-Encoding: 495 110661 495
+Encoding: 527 110661 527
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -24989,7 +25755,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B045_uni3099.ccmp
-Encoding: 496 -1 496
+Encoding: 528 -1 528
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25057,7 +25823,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B046
-Encoding: 497 110662 497
+Encoding: 529 110662 529
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25129,7 +25895,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B046_uni3099.ccmp
-Encoding: 498 -1 498
+Encoding: 530 -1 530
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25214,7 +25980,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B047
-Encoding: 499 110663 499
+Encoding: 531 110663 531
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25283,7 +26049,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B047_uni3099.ccmp
-Encoding: 500 -1 500
+Encoding: 532 -1 532
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25367,7 +26133,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B048
-Encoding: 501 110664 501
+Encoding: 533 110664 533
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25433,7 +26199,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B048_uni3099.ccmp
-Encoding: 502 -1 502
+Encoding: 534 -1 534
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25512,7 +26278,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B049
-Encoding: 503 110665 503
+Encoding: 535 110665 535
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25625,7 +26391,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B049_uni3099.ccmp
-Encoding: 504 -1 504
+Encoding: 536 -1 536
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25753,7 +26519,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04A
-Encoding: 505 110666 505
+Encoding: 537 110666 537
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25817,7 +26583,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04A_uni3099.ccmp
-Encoding: 506 -1 506
+Encoding: 538 -1 538
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -25894,7 +26660,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04B
-Encoding: 507 110667 507
+Encoding: 539 110667 539
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26011,7 +26777,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04B_uni3099.ccmp
-Encoding: 508 -1 508
+Encoding: 540 -1 540
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26143,7 +26909,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04C
-Encoding: 509 110668 509
+Encoding: 541 110668 541
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26275,7 +27041,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04C_uni3099.ccmp
-Encoding: 510 -1 510
+Encoding: 542 -1 542
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26423,7 +27189,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04D
-Encoding: 511 110669 511
+Encoding: 543 110669 543
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26527,7 +27293,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04D_uni3099.ccmp
-Encoding: 512 -1 512
+Encoding: 544 -1 544
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26644,7 +27410,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B04E
-Encoding: 513 110670 513
+Encoding: 545 110670 545
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26720,7 +27486,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B04E_uni3099.ccmp
-Encoding: 514 -1 514
+Encoding: 546 -1 546
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26809,7 +27575,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B04F
-Encoding: 515 110671 515
+Encoding: 547 110671 547
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26863,7 +27629,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B04F_uni3099.ccmp
-Encoding: 516 -1 516
+Encoding: 548 -1 548
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -26930,7 +27696,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B050
-Encoding: 517 110672 517
+Encoding: 549 110672 549
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27024,7 +27790,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B050_uni3099.ccmp
-Encoding: 518 -1 518
+Encoding: 550 -1 550
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27133,7 +27899,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B051
-Encoding: 519 110673 519
+Encoding: 551 110673 551
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27201,7 +27967,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B051_uni3099.ccmp
-Encoding: 520 -1 520
+Encoding: 552 -1 552
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27282,7 +28048,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B052
-Encoding: 521 110674 521
+Encoding: 553 110674 553
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27335,7 +28101,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B052_uni3099.ccmp
-Encoding: 522 -1 522
+Encoding: 554 -1 554
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27401,7 +28167,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B053
-Encoding: 523 110675 523
+Encoding: 555 110675 555
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27462,7 +28228,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B053_uni3099.ccmp
-Encoding: 524 -1 524
+Encoding: 556 -1 556
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27538,7 +28304,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B054
-Encoding: 525 110676 525
+Encoding: 557 110676 557
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27644,7 +28410,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B054_uni3099.ccmp
-Encoding: 526 -1 526
+Encoding: 558 -1 558
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27765,7 +28531,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B055
-Encoding: 527 110677 527
+Encoding: 559 110677 559
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27869,7 +28635,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B055_uni3099.ccmp
-Encoding: 528 -1 528
+Encoding: 560 -1 560
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -27986,7 +28752,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B056
-Encoding: 529 110678 529
+Encoding: 561 110678 561
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28129,7 +28895,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B056_uni3099.ccmp
-Encoding: 530 -1 530
+Encoding: 562 -1 562
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28287,7 +29053,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B057
-Encoding: 531 110679 531
+Encoding: 563 110679 563
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28382,7 +29148,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B057_uni3099.ccmp
-Encoding: 532 -1 532
+Encoding: 564 -1 564
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28490,7 +29256,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B058
-Encoding: 533 110680 533
+Encoding: 565 110680 565
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28577,7 +29343,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B058_uni3099.ccmp
-Encoding: 534 -1 534
+Encoding: 566 -1 566
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28686,7 +29452,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B059
-Encoding: 535 110681 535
+Encoding: 567 110681 567
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28786,7 +29552,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B059_uni3099.ccmp
-Encoding: 536 -1 536
+Encoding: 568 -1 568
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28901,7 +29667,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05A
-Encoding: 537 110682 537
+Encoding: 569 110682 569
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -28947,7 +29713,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B05A_uni3099.ccmp
-Encoding: 538 -1 538
+Encoding: 570 -1 570
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29006,7 +29772,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B05B
-Encoding: 539 110683 539
+Encoding: 571 110683 571
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29088,7 +29854,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B05B_uni3099.ccmp
-Encoding: 540 -1 540
+Encoding: 572 -1 572
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29183,7 +29949,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B05C
-Encoding: 541 110684 541
+Encoding: 573 110684 573
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29310,7 +30076,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05C_uni3099.ccmp
-Encoding: 542 -1 542
+Encoding: 574 -1 574
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29452,7 +30218,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05D
-Encoding: 543 110685 543
+Encoding: 575 110685 575
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29569,7 +30335,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05D_uni3099.ccmp
-Encoding: 544 -1 544
+Encoding: 576 -1 576
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29701,7 +30467,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05E
-Encoding: 545 110686 545
+Encoding: 577 110686 577
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29824,7 +30590,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05E_uni3099.ccmp
-Encoding: 546 -1 546
+Encoding: 578 -1 578
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -29965,7 +30731,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B05F
-Encoding: 547 110687 547
+Encoding: 579 110687 579
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30027,7 +30793,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B05F_uni3099.ccmp
-Encoding: 548 -1 548
+Encoding: 580 -1 580
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30102,7 +30868,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B060
-Encoding: 549 110688 549
+Encoding: 581 110688 581
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30141,7 +30907,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B060_uni3099.ccmp
-Encoding: 550 -1 550
+Encoding: 582 -1 582
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30193,7 +30959,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B061
-Encoding: 551 110689 551
+Encoding: 583 110689 583
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30369,7 +31135,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B061_uni3099.ccmp
-Encoding: 552 -1 552
+Encoding: 584 -1 584
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30560,7 +31326,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B062
-Encoding: 553 110690 553
+Encoding: 585 110690 585
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30629,7 +31395,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B062_uni3099.ccmp
-Encoding: 554 -1 554
+Encoding: 586 -1 586
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30711,7 +31477,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B063
-Encoding: 555 110691 555
+Encoding: 587 110691 587
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30797,7 +31563,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B063_uni3099.ccmp
-Encoding: 556 -1 556
+Encoding: 588 -1 588
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -30898,7 +31664,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B064
-Encoding: 557 110692 557
+Encoding: 589 110692 589
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31004,7 +31770,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B064_uni3099.ccmp
-Encoding: 558 -1 558
+Encoding: 590 -1 590
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31125,7 +31891,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B065
-Encoding: 559 110693 559
+Encoding: 591 110693 591
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31221,7 +31987,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B065_uni3099.ccmp
-Encoding: 560 -1 560
+Encoding: 592 -1 592
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31330,7 +32096,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B066
-Encoding: 561 110694 561
+Encoding: 593 110694 593
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31390,7 +32156,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B066_uni3099.ccmp
-Encoding: 562 -1 562
+Encoding: 594 -1 594
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31463,7 +32229,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B067
-Encoding: 563 110695 563
+Encoding: 595 110695 595
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31581,7 +32347,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B067_uni3099.ccmp
-Encoding: 564 -1 564
+Encoding: 596 -1 596
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31714,7 +32480,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B068
-Encoding: 565 110696 565
+Encoding: 597 110696 597
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -31860,7 +32626,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B068_uni3099.ccmp
-Encoding: 566 -1 566
+Encoding: 598 -1 598
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32021,7 +32787,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B069
-Encoding: 567 110697 567
+Encoding: 599 110697 599
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32094,7 +32860,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B069_uni3099.ccmp
-Encoding: 568 -1 568
+Encoding: 600 -1 600
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32182,7 +32948,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06A
-Encoding: 569 110698 569
+Encoding: 601 110698 601
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32259,7 +33025,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06A_uni3099.ccmp
-Encoding: 570 -1 570
+Encoding: 602 -1 602
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32351,7 +33117,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06B
-Encoding: 571 110699 571
+Encoding: 603 110699 603
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32475,7 +33241,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06B_uni3099.ccmp
-Encoding: 572 -1 572
+Encoding: 604 -1 604
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32614,7 +33380,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06C
-Encoding: 573 110700 573
+Encoding: 605 110700 605
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32675,7 +33441,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B06C_uni3099.ccmp
-Encoding: 574 -1 574
+Encoding: 606 -1 606
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32749,7 +33515,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B06D
-Encoding: 575 110701 575
+Encoding: 607 110701 607
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32819,7 +33585,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B06D_uni3099.ccmp
-Encoding: 576 -1 576
+Encoding: 608 -1 608
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32902,7 +33668,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B06E
-Encoding: 577 110702 577
+Encoding: 609 110702 609
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -32993,7 +33759,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06E_uni3099.ccmp
-Encoding: 578 -1 578
+Encoding: 610 -1 610
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33099,7 +33865,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06F
-Encoding: 579 110703 579
+Encoding: 611 110703 611
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33194,7 +33960,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B06F_uni3099.ccmp
-Encoding: 580 -1 580
+Encoding: 612 -1 612
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33304,7 +34070,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B070
-Encoding: 581 110704 581
+Encoding: 613 110704 613
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33410,7 +34176,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B070_uni3099.ccmp
-Encoding: 582 -1 582
+Encoding: 614 -1 614
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33531,7 +34297,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B071
-Encoding: 583 110705 583
+Encoding: 615 110705 615
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33591,7 +34357,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B071_uni3099.ccmp
-Encoding: 584 -1 584
+Encoding: 616 -1 616
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33667,7 +34433,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B072
-Encoding: 585 110706 585
+Encoding: 617 110706 617
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33710,7 +34476,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B072_uni3099.ccmp
-Encoding: 586 -1 586
+Encoding: 618 -1 618
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33767,7 +34533,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B073
-Encoding: 587 110707 587
+Encoding: 619 110707 619
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33823,7 +34589,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B073_uni3099.ccmp
-Encoding: 588 -1 588
+Encoding: 620 -1 620
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33894,7 +34660,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B074
-Encoding: 589 110708 589
+Encoding: 621 110708 621
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -33992,7 +34758,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B074_uni3099.ccmp
-Encoding: 590 -1 590
+Encoding: 622 -1 622
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34105,7 +34871,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B075
-Encoding: 591 110709 591
+Encoding: 623 110709 623
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34176,7 +34942,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B075_uni3099.ccmp
-Encoding: 592 -1 592
+Encoding: 624 -1 624
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34262,7 +35028,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B076
-Encoding: 593 110710 593
+Encoding: 625 110710 625
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34377,7 +35143,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B076_uni3099.ccmp
-Encoding: 594 -1 594
+Encoding: 626 -1 626
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34507,7 +35273,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B077
-Encoding: 595 110711 595
+Encoding: 627 110711 627
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34559,7 +35325,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B077_uni3099.ccmp
-Encoding: 596 -1 596
+Encoding: 628 -1 628
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34624,7 +35390,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B078
-Encoding: 597 110712 597
+Encoding: 629 110712 629
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34739,7 +35505,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B078_uni3099.ccmp
-Encoding: 598 -1 598
+Encoding: 630 -1 630
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34867,7 +35633,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B079
-Encoding: 599 110713 599
+Encoding: 631 110713 631
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -34956,7 +35722,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B079_uni3099.ccmp
-Encoding: 600 -1 600
+Encoding: 632 -1 632
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35060,7 +35826,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07A
-Encoding: 601 110714 601
+Encoding: 633 110714 633
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35177,7 +35943,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07A_uni3099.ccmp
-Encoding: 602 -1 602
+Encoding: 634 -1 634
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35309,7 +36075,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07B
-Encoding: 603 110715 603
+Encoding: 635 110715 635
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35375,7 +36141,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B07B_uni3099.ccmp
-Encoding: 604 -1 604
+Encoding: 636 -1 636
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35454,7 +36220,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B07C
-Encoding: 605 110716 605
+Encoding: 637 110716 637
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35570,7 +36336,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07C_uni3099.ccmp
-Encoding: 606 -1 606
+Encoding: 638 -1 638
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35701,7 +36467,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07D
-Encoding: 607 110717 607
+Encoding: 639 110717 639
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35765,7 +36531,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07D_uni3099.ccmp
-Encoding: 608 -1 608
+Encoding: 640 -1 640
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35844,7 +36610,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07E
-Encoding: 609 110718 609
+Encoding: 641 110718 641
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -35946,7 +36712,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B07F
-Encoding: 610 110719 610
+Encoding: 642 110719 642
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36024,7 +36790,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B080
-Encoding: 611 110720 611
+Encoding: 643 110720 643
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36129,7 +36895,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B081
-Encoding: 612 110721 612
+Encoding: 644 110721 644
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36203,7 +36969,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B082
-Encoding: 613 110722 613
+Encoding: 645 110722 645
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36276,7 +37042,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B083
-Encoding: 614 110723 614
+Encoding: 646 110723 646
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36406,7 +37172,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B084
-Encoding: 615 110724 615
+Encoding: 647 110724 647
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36527,7 +37293,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B085
-Encoding: 616 110725 616
+Encoding: 648 110725 648
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36613,7 +37379,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B086
-Encoding: 617 110726 617
+Encoding: 649 110726 649
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36696,7 +37462,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B087
-Encoding: 618 110727 618
+Encoding: 650 110727 650
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36797,7 +37563,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B088
-Encoding: 619 110728 619
+Encoding: 651 110728 651
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36855,7 +37621,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B089
-Encoding: 620 110729 620
+Encoding: 652 110729 652
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -36913,7 +37679,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B08A
-Encoding: 621 110730 621
+Encoding: 653 110730 653
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37000,7 +37766,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B08B
-Encoding: 622 110731 622
+Encoding: 654 110731 654
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37050,7 +37816,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B08C
-Encoding: 623 110732 623
+Encoding: 655 110732 655
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37093,7 +37859,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B08D
-Encoding: 624 110733 624
+Encoding: 656 110733 656
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37145,7 +37911,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B08E
-Encoding: 625 110734 625
+Encoding: 657 110734 657
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37240,7 +38006,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B08E_uni3099.ccmp
-Encoding: 626 -1 626
+Encoding: 658 -1 658
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37350,7 +38116,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B08F
-Encoding: 627 110735 627
+Encoding: 659 110735 659
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37488,7 +38254,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B090
-Encoding: 628 110736 628
+Encoding: 660 110736 660
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37578,7 +38344,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B091
-Encoding: 629 110737 629
+Encoding: 661 110737 661
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37691,7 +38457,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B092
-Encoding: 630 110738 630
+Encoding: 662 110738 662
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37781,7 +38547,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B093
-Encoding: 631 110739 631
+Encoding: 663 110739 663
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37869,7 +38635,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B094
-Encoding: 632 110740 632
+Encoding: 664 110740 664
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37917,7 +38683,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B095
-Encoding: 633 110741 633
+Encoding: 665 110741 665
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -37992,7 +38758,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B096
-Encoding: 634 110742 634
+Encoding: 666 110742 666
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38106,7 +38872,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B097
-Encoding: 635 110743 635
+Encoding: 667 110743 667
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38227,7 +38993,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B098
-Encoding: 636 110744 636
+Encoding: 668 110744 668
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38306,7 +39072,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B098_uni3099.ccmp
-Encoding: 637 -1 637
+Encoding: 669 -1 669
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38398,7 +39164,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B099
-Encoding: 638 110745 638
+Encoding: 670 110745 670
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38476,7 +39242,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09A
-Encoding: 639 110746 639
+Encoding: 671 110746 671
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38582,7 +39348,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09B
-Encoding: 640 110747 640
+Encoding: 672 110747 672
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38696,7 +39462,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09C
-Encoding: 641 110748 641
+Encoding: 673 110748 673
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38750,7 +39516,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B09D
-Encoding: 642 110749 642
+Encoding: 674 110749 674
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38871,7 +39637,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09E
-Encoding: 643 110750 643
+Encoding: 675 110750 675
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38908,7 +39674,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09E_uni3099.ccmp
-Encoding: 644 -1 644
+Encoding: 676 -1 676
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -38958,7 +39724,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09E_uni309A.ccmp
-Encoding: 645 -1 645
+Encoding: 677 -1 677
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39011,7 +39777,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B09F
-Encoding: 646 110751 646
+Encoding: 678 110751 678
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39085,7 +39851,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B09F_uni3099.ccmp
-Encoding: 647 -1 647
+Encoding: 679 -1 679
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39172,7 +39938,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B09F_uni309A.ccmp
-Encoding: 648 -1 648
+Encoding: 680 -1 680
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39261,7 +40027,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0A0
-Encoding: 649 110752 649
+Encoding: 681 110752 681
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39439,7 +40205,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A0_uni3099.ccmp
-Encoding: 650 -1 650
+Encoding: 682 -1 682
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39632,7 +40398,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A0_uni309A.ccmp
-Encoding: 651 -1 651
+Encoding: 683 -1 683
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39825,7 +40591,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A1
-Encoding: 652 110753 652
+Encoding: 684 110753 684
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -39939,7 +40705,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A1_uni3099.ccmp
-Encoding: 653 -1 653
+Encoding: 685 -1 685
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40068,7 +40834,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A1_uni309A.ccmp
-Encoding: 654 -1 654
+Encoding: 686 -1 686
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40197,7 +40963,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A2
-Encoding: 655 110754 655
+Encoding: 687 110754 687
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40337,7 +41103,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A2_uni3099.ccmp
-Encoding: 656 -1 656
+Encoding: 688 -1 688
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40490,7 +41256,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A2_uni309A.ccmp
-Encoding: 657 -1 657
+Encoding: 689 -1 689
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40645,7 +41411,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A3
-Encoding: 658 110755 658
+Encoding: 690 110755 690
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40749,7 +41515,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A3_uni3099.ccmp
-Encoding: 659 -1 659
+Encoding: 691 -1 691
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40866,7 +41632,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A3_uni309A.ccmp
-Encoding: 660 -1 660
+Encoding: 692 -1 692
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -40985,7 +41751,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A4
-Encoding: 661 110756 661
+Encoding: 693 110756 693
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41112,7 +41878,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A4_uni3099.ccmp
-Encoding: 662 -1 662
+Encoding: 694 -1 694
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41254,7 +42020,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A4_uni309A.ccmp
-Encoding: 663 -1 663
+Encoding: 695 -1 695
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41396,7 +42162,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A5
-Encoding: 664 110757 664
+Encoding: 696 110757 696
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41482,7 +42248,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A5_uni3099.ccmp
-Encoding: 665 -1 665
+Encoding: 697 -1 697
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41583,7 +42349,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A5_uni309A.ccmp
-Encoding: 666 -1 666
+Encoding: 698 -1 698
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41684,7 +42450,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A6
-Encoding: 667 110758 667
+Encoding: 699 110758 699
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41734,7 +42500,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0A6_uni3099.ccmp
-Encoding: 668 -1 668
+Encoding: 700 -1 700
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41797,7 +42563,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0A6_uni309A.ccmp
-Encoding: 669 -1 669
+Encoding: 701 -1 701
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41862,7 +42628,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0A7
-Encoding: 670 110759 670
+Encoding: 702 110759 702
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -41991,7 +42757,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A7_uni3099.ccmp
-Encoding: 671 -1 671
+Encoding: 703 -1 703
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42135,7 +42901,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A7_uni309A.ccmp
-Encoding: 672 -1 672
+Encoding: 704 -1 704
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42279,7 +43045,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A8
-Encoding: 673 110760 673
+Encoding: 705 110760 705
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42438,7 +43204,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A8_uni3099.ccmp
-Encoding: 674 -1 674
+Encoding: 706 -1 706
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42612,7 +43378,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A8_uni309A.ccmp
-Encoding: 675 -1 675
+Encoding: 707 -1 707
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42786,7 +43552,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A9
-Encoding: 676 110761 676
+Encoding: 708 110761 708
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42883,7 +43649,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A9_uni3099.ccmp
-Encoding: 677 -1 677
+Encoding: 709 -1 709
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -42994,7 +43760,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0A9_uni309A.ccmp
-Encoding: 678 -1 678
+Encoding: 710 -1 710
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43106,7 +43872,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AA
-Encoding: 679 110762 679
+Encoding: 711 110762 711
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43173,7 +43939,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AA_uni3099.ccmp
-Encoding: 680 -1 680
+Encoding: 712 -1 712
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43253,7 +44019,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AA_uni309A.ccmp
-Encoding: 681 -1 681
+Encoding: 713 -1 713
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43335,7 +44101,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AB
-Encoding: 682 110763 682
+Encoding: 714 110763 714
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43410,7 +44176,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AB_uni3099.ccmp
-Encoding: 683 -1 683
+Encoding: 715 -1 715
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43498,7 +44264,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AB_uni309A.ccmp
-Encoding: 684 -1 684
+Encoding: 716 -1 716
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43588,7 +44354,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AC
-Encoding: 685 110764 685
+Encoding: 717 110764 717
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43714,7 +44480,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AC_uni3099.ccmp
-Encoding: 686 -1 686
+Encoding: 718 -1 718
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43855,7 +44621,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AC_uni309A.ccmp
-Encoding: 687 -1 687
+Encoding: 719 -1 719
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -43996,7 +44762,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AD
-Encoding: 688 110765 688
+Encoding: 720 110765 720
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44121,7 +44887,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AD_uni3099.ccmp
-Encoding: 689 -1 689
+Encoding: 721 -1 721
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44261,7 +45027,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AD_uni309A.ccmp
-Encoding: 690 -1 690
+Encoding: 722 -1 722
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44401,7 +45167,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AE
-Encoding: 691 110766 691
+Encoding: 723 110766 723
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44561,7 +45327,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AE_uni3099.ccmp
-Encoding: 692 -1 692
+Encoding: 724 -1 724
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44736,7 +45502,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AE_uni309A.ccmp
-Encoding: 693 -1 693
+Encoding: 725 -1 725
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44911,7 +45677,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0AF
-Encoding: 694 110767 694
+Encoding: 726 110767 726
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -44987,7 +45753,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0AF_uni3099.ccmp
-Encoding: 695 -1 695
+Encoding: 727 -1 727
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45076,7 +45842,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0AF_uni309A.ccmp
-Encoding: 696 -1 696
+Encoding: 728 -1 728
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45167,7 +45933,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B0
-Encoding: 697 110768 697
+Encoding: 729 110768 729
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45230,7 +45996,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B0_uni3099.ccmp
-Encoding: 698 -1 698
+Encoding: 730 -1 730
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45308,7 +46074,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B0_uni309A.ccmp
-Encoding: 699 -1 699
+Encoding: 731 -1 731
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45386,7 +46152,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B1
-Encoding: 700 110769 700
+Encoding: 732 110769 732
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45481,7 +46247,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B1_uni3099.ccmp
-Encoding: 701 -1 701
+Encoding: 733 -1 733
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45589,7 +46355,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B1_uni309A.ccmp
-Encoding: 702 -1 702
+Encoding: 734 -1 734
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45699,7 +46465,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B2
-Encoding: 703 110770 703
+Encoding: 735 110770 735
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45815,7 +46581,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B2_uni3099.ccmp
-Encoding: 704 -1 704
+Encoding: 736 -1 736
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -45944,7 +46710,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B2_uni309A.ccmp
-Encoding: 705 -1 705
+Encoding: 737 -1 737
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46075,7 +46841,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B3
-Encoding: 706 110771 706
+Encoding: 738 110771 738
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46183,7 +46949,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B3_uni3099.ccmp
-Encoding: 707 -1 707
+Encoding: 739 -1 739
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46306,7 +47072,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B3_uni309A.ccmp
-Encoding: 708 -1 708
+Encoding: 740 -1 740
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46429,7 +47195,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B4
-Encoding: 709 110772 709
+Encoding: 741 110772 741
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46607,7 +47373,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B4_uni3099.ccmp
-Encoding: 710 -1 710
+Encoding: 742 -1 742
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46800,7 +47566,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B4_uni309A.ccmp
-Encoding: 711 -1 711
+Encoding: 743 -1 743
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -46993,7 +47759,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B5
-Encoding: 712 110773 712
+Encoding: 744 110773 744
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47121,7 +47887,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B5_uni3099.ccmp
-Encoding: 713 -1 713
+Encoding: 745 -1 745
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47268,7 +48034,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B5_uni309A.ccmp
-Encoding: 714 -1 714
+Encoding: 746 -1 746
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47415,7 +48181,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B6
-Encoding: 715 110774 715
+Encoding: 747 110774 747
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47499,7 +48265,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B6_uni3099.ccmp
-Encoding: 716 -1 716
+Encoding: 748 -1 748
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47596,7 +48362,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B6_uni309A.ccmp
-Encoding: 717 -1 717
+Encoding: 749 -1 749
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47695,7 +48461,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B7
-Encoding: 718 110775 718
+Encoding: 750 110775 750
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47766,7 +48532,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B7_uni3099.ccmp
-Encoding: 719 -1 719
+Encoding: 751 -1 751
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47850,7 +48616,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B7_uni309A.ccmp
-Encoding: 720 -1 720
+Encoding: 752 -1 752
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -47936,7 +48702,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B8
-Encoding: 721 110776 721
+Encoding: 753 110776 753
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48056,7 +48822,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B8_uni3099.ccmp
-Encoding: 722 -1 722
+Encoding: 754 -1 754
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48189,7 +48955,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B8_uni309A.ccmp
-Encoding: 723 -1 723
+Encoding: 755 -1 755
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48324,7 +49090,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0B9
-Encoding: 724 110777 724
+Encoding: 756 110777 756
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48361,7 +49127,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B9_uni3099.ccmp
-Encoding: 725 -1 725
+Encoding: 757 -1 757
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48411,7 +49177,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0B9_uni309A.ccmp
-Encoding: 726 -1 726
+Encoding: 758 -1 758
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48464,7 +49230,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0BA
-Encoding: 727 110778 727
+Encoding: 759 110778 759
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48600,7 +49366,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BA_uni3099.ccmp
-Encoding: 728 -1 728
+Encoding: 760 -1 760
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48751,7 +49517,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BA_uni309A.ccmp
-Encoding: 729 -1 729
+Encoding: 761 -1 761
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -48902,7 +49668,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BB
-Encoding: 730 110779 730
+Encoding: 762 110779 762
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49019,7 +49785,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BB_uni3099.ccmp
-Encoding: 731 -1 731
+Encoding: 763 -1 763
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49151,7 +49917,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BB_uni309A.ccmp
-Encoding: 732 -1 732
+Encoding: 764 -1 764
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49283,7 +50049,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BC
-Encoding: 733 110780 733
+Encoding: 765 110780 765
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49395,7 +50161,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BC_uni3099.ccmp
-Encoding: 734 -1 734
+Encoding: 766 -1 766
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49522,7 +50288,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BC_uni309A.ccmp
-Encoding: 735 -1 735
+Encoding: 767 -1 767
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49649,7 +50415,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BD
-Encoding: 736 110781 736
+Encoding: 768 110781 768
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49754,7 +50520,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BD_uni3099.ccmp
-Encoding: 737 -1 737
+Encoding: 769 -1 769
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49874,7 +50640,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BD_uni309A.ccmp
-Encoding: 738 -1 738
+Encoding: 770 -1 770
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -49994,7 +50760,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BE
-Encoding: 739 110782 739
+Encoding: 771 110782 771
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50156,7 +50922,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BE_uni3099.ccmp
-Encoding: 740 -1 740
+Encoding: 772 -1 772
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50333,7 +51099,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BE_uni309A.ccmp
-Encoding: 741 -1 741
+Encoding: 773 -1 773
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50510,7 +51276,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BF
-Encoding: 742 110783 742
+Encoding: 774 110783 774
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50587,7 +51353,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BF_uni3099.ccmp
-Encoding: 743 -1 743
+Encoding: 775 -1 775
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50677,7 +51443,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0BF_uni309A.ccmp
-Encoding: 744 -1 744
+Encoding: 776 -1 776
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50769,7 +51535,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C0
-Encoding: 745 110784 745
+Encoding: 777 110784 777
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50819,7 +51585,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0C0_uni3099.ccmp
-Encoding: 746 -1 746
+Encoding: 778 -1 778
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50882,7 +51648,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0C0_uni309A.ccmp
-Encoding: 747 -1 747
+Encoding: 779 -1 779
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -50947,7 +51713,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0C1
-Encoding: 748 110785 748
+Encoding: 780 110785 780
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51084,7 +51850,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C1_uni3099.ccmp
-Encoding: 749 -1 749
+Encoding: 781 -1 781
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51234,7 +52000,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C1_uni309A.ccmp
-Encoding: 750 -1 750
+Encoding: 782 -1 782
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51386,7 +52152,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C2
-Encoding: 751 110786 751
+Encoding: 783 110786 783
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51477,7 +52243,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C3
-Encoding: 752 110787 752
+Encoding: 784 110787 784
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51571,7 +52337,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C4
-Encoding: 753 110788 753
+Encoding: 785 110788 785
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51649,7 +52415,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C5
-Encoding: 754 110789 754
+Encoding: 786 110789 786
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51742,7 +52508,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0C6
-Encoding: 755 110790 755
+Encoding: 787 110790 787
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51845,7 +52611,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C7
-Encoding: 756 110791 756
+Encoding: 788 110791 788
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -51959,7 +52725,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C8
-Encoding: 757 110792 757
+Encoding: 789 110792 789
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52073,7 +52839,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0C9
-Encoding: 758 110793 758
+Encoding: 790 110793 790
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52115,7 +52881,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0CA
-Encoding: 759 110794 759
+Encoding: 791 110794 791
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52221,7 +52987,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0CB
-Encoding: 760 110795 760
+Encoding: 792 110795 792
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52317,7 +53083,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0CC
-Encoding: 761 110796 761
+Encoding: 793 110796 793
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52428,7 +53194,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0CD
-Encoding: 762 110797 762
+Encoding: 794 110797 794
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52485,7 +53251,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B0CE
-Encoding: 763 110798 763
+Encoding: 795 110798 795
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52532,7 +53298,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0CF
-Encoding: 764 110799 764
+Encoding: 796 110799 796
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52592,7 +53358,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D0
-Encoding: 765 110800 765
+Encoding: 797 110800 797
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52710,7 +53476,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D1
-Encoding: 766 110801 766
+Encoding: 798 110801 798
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52791,7 +53557,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0D2
-Encoding: 767 110802 767
+Encoding: 799 110802 799
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -52901,7 +53667,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D3
-Encoding: 768 110803 768
+Encoding: 800 110803 800
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53042,7 +53808,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D4
-Encoding: 769 110804 769
+Encoding: 801 110804 801
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53098,7 +53864,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0D5
-Encoding: 770 110805 770
+Encoding: 802 110805 802
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53184,7 +53950,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D6
-Encoding: 771 110806 771
+Encoding: 803 110806 803
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53269,7 +54035,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D7
-Encoding: 772 110807 772
+Encoding: 804 110807 804
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53363,7 +54129,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D8
-Encoding: 773 110808 773
+Encoding: 805 110808 805
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53445,7 +54211,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0D9
-Encoding: 774 110809 774
+Encoding: 806 110809 806
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53524,7 +54290,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0DA
-Encoding: 775 110810 775
+Encoding: 807 110810 807
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53567,7 +54333,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B0DB
-Encoding: 776 110811 776
+Encoding: 808 110811 808
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53665,7 +54431,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0DC
-Encoding: 777 110812 777
+Encoding: 809 110812 809
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53739,7 +54505,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0DD
-Encoding: 778 110813 778
+Encoding: 810 110813 810
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53814,7 +54580,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0DE
-Encoding: 779 110814 779
+Encoding: 811 110814 811
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53874,7 +54640,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0DF
-Encoding: 780 110815 780
+Encoding: 812 110815 812
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -53999,7 +54765,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E0
-Encoding: 781 110816 781
+Encoding: 813 110816 813
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54116,7 +54882,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E1
-Encoding: 782 110817 782
+Encoding: 814 110817 814
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54219,7 +54985,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E2
-Encoding: 783 110818 783
+Encoding: 815 110818 815
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54367,7 +55133,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E3
-Encoding: 784 110819 784
+Encoding: 816 110819 816
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54488,7 +55254,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E4
-Encoding: 785 110820 785
+Encoding: 817 110820 817
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54558,7 +55324,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E5
-Encoding: 786 110821 786
+Encoding: 818 110821 818
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54605,7 +55371,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B0E6
-Encoding: 787 110822 787
+Encoding: 819 110822 819
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54681,7 +55447,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0E7
-Encoding: 788 110823 788
+Encoding: 820 110823 820
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54768,7 +55534,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E8
-Encoding: 789 110824 789
+Encoding: 821 110824 821
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54881,7 +55647,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0E9
-Encoding: 790 110825 790
+Encoding: 822 110825 822
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -54948,7 +55714,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0EA
-Encoding: 791 110826 791
+Encoding: 823 110826 823
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55014,7 +55780,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0EB
-Encoding: 792 110827 792
+Encoding: 824 110827 824
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55071,7 +55837,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0EC
-Encoding: 793 110828 793
+Encoding: 825 110828 825
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55188,7 +55954,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0ED
-Encoding: 794 110829 794
+Encoding: 826 110829 826
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55268,7 +56034,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0EE
-Encoding: 795 110830 795
+Encoding: 827 110830 827
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55358,7 +56124,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0EF
-Encoding: 796 110831 796
+Encoding: 828 110831 828
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55426,7 +56192,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F0
-Encoding: 797 110832 797
+Encoding: 829 110832 829
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55459,7 +56225,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B0F1
-Encoding: 798 110833 798
+Encoding: 830 110833 830
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55554,7 +56320,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F2
-Encoding: 799 110834 799
+Encoding: 831 110834 831
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55624,7 +56390,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F3
-Encoding: 800 110835 800
+Encoding: 832 110835 832
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55742,7 +56508,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F4
-Encoding: 801 110836 801
+Encoding: 833 110836 833
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55852,7 +56618,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F5
-Encoding: 802 110837 802
+Encoding: 834 110837 834
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -55989,7 +56755,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F6
-Encoding: 803 110838 803
+Encoding: 835 110838 835
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56074,7 +56840,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F7
-Encoding: 804 110839 804
+Encoding: 836 110839 836
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56261,7 +57027,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F8
-Encoding: 805 110840 805
+Encoding: 837 110840 837
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56369,7 +57135,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0F9
-Encoding: 806 110841 806
+Encoding: 838 110841 838
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56500,7 +57266,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0FA
-Encoding: 807 110842 807
+Encoding: 839 110842 839
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56583,7 +57349,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0FB
-Encoding: 808 110843 808
+Encoding: 840 110843 840
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56628,7 +57394,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B0FC
-Encoding: 809 110844 809
+Encoding: 841 110844 841
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56715,7 +57481,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0FD
-Encoding: 810 110845 810
+Encoding: 842 110845 842
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56816,7 +57582,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B0FE
-Encoding: 811 110846 811
+Encoding: 843 110846 843
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -56975,7 +57741,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B0FF
-Encoding: 812 110847 812
+Encoding: 844 110847 844
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57064,7 +57830,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B100
-Encoding: 813 110848 813
+Encoding: 845 110848 845
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57169,7 +57935,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B101
-Encoding: 814 110849 814
+Encoding: 846 110849 846
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57326,7 +58092,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B102
-Encoding: 815 110850 815
+Encoding: 847 110850 847
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57398,7 +58164,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B103
-Encoding: 816 110851 816
+Encoding: 848 110851 848
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57471,7 +58237,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B104
-Encoding: 817 110852 817
+Encoding: 849 110852 849
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57586,7 +58352,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B105
-Encoding: 818 110853 818
+Encoding: 850 110853 850
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57792,7 +58558,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B106
-Encoding: 819 110854 819
+Encoding: 851 110854 851
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -57913,7 +58679,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B107
-Encoding: 820 110855 820
+Encoding: 852 110855 852
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58085,7 +58851,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B108
-Encoding: 821 110856 821
+Encoding: 853 110856 853
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58218,7 +58984,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B109
-Encoding: 822 110857 822
+Encoding: 854 110857 854
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58319,7 +59085,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B10A
-Encoding: 823 110858 823
+Encoding: 855 110858 855
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58380,7 +59146,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B10B
-Encoding: 824 110859 824
+Encoding: 856 110859 856
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58454,7 +59220,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B10C
-Encoding: 825 110860 825
+Encoding: 857 110860 857
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58525,7 +59291,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B10D
-Encoding: 826 110861 826
+Encoding: 858 110861 858
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58612,7 +59378,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B10E
-Encoding: 827 110862 827
+Encoding: 859 110862 859
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58674,7 +59440,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B10F
-Encoding: 828 110863 828
+Encoding: 860 110863 860
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58753,7 +59519,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B110
-Encoding: 829 110864 829
+Encoding: 861 110864 861
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58846,7 +59612,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B111
-Encoding: 830 110865 830
+Encoding: 862 110865 862
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -58940,7 +59706,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B112
-Encoding: 831 110866 831
+Encoding: 863 110866 863
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59066,7 +59832,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B113
-Encoding: 832 110867 832
+Encoding: 864 110867 864
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59184,7 +59950,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B114
-Encoding: 833 110868 833
+Encoding: 865 110868 865
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59323,7 +60089,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B115
-Encoding: 834 110869 834
+Encoding: 866 110869 866
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59457,7 +60223,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B116
-Encoding: 835 110870 835
+Encoding: 867 110870 867
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59540,7 +60306,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B117
-Encoding: 836 110871 836
+Encoding: 868 110871 868
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59605,7 +60371,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B118
-Encoding: 837 110872 837
+Encoding: 869 110872 869
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59704,7 +60470,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B119
-Encoding: 838 110873 838
+Encoding: 870 110873 870
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59821,7 +60587,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B11A
-Encoding: 839 110874 839
+Encoding: 871 110874 871
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -59910,7 +60676,7 @@ Colour: ffbf00
 EndChar
 
 StartChar: u1B11B
-Encoding: 840 110875 840
+Encoding: 872 110875 872
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60002,7 +60768,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B11C
-Encoding: 841 110876 841
+Encoding: 873 110876 873
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60073,7 +60839,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B11D
-Encoding: 842 110877 842
+Encoding: 874 110877 874
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60169,7 +60935,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B11E
-Encoding: 843 110878 843
+Encoding: 875 110878 875
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60246,7 +61012,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1B11F
-Encoding: 844 110879 844
+Encoding: 876 110879 876
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60302,7 +61068,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B120
-Encoding: 845 110880 845
+Encoding: 877 110880 877
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60330,7 +61096,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B121
-Encoding: 846 110881 846
+Encoding: 878 110881 878
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60366,7 +61132,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B122
-Encoding: 847 110882 847
+Encoding: 879 110882 879
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -60412,7 +61178,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1B130
-Encoding: 848 110896 848
+Encoding: 880 110896 880
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60459,17 +61225,17 @@ Substitution2: "Vertical forms subtable" u1B130.vert
 EndChar
 
 StartChar: u1B130.vert
-Encoding: 849 -1 849
+Encoding: 881 -1 881
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 848 110896 N 0.91 0 0 0.95 150 122 2
+Refer: 880 110896 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B131
-Encoding: 850 110897 850
+Encoding: 882 110897 882
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60494,17 +61260,17 @@ Substitution2: "Vertical forms subtable" u1B131.vert
 EndChar
 
 StartChar: u1B131.vert
-Encoding: 851 -1 851
+Encoding: 883 -1 883
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 850 110897 N 0.91 0 0 0.95 150 122 2
+Refer: 882 110897 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B132
-Encoding: 852 110898 852
+Encoding: 884 110898 884
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60542,17 +61308,17 @@ Substitution2: "Vertical forms subtable" u1B132.vert
 EndChar
 
 StartChar: u1B132.vert
-Encoding: 853 -1 853
+Encoding: 885 -1 885
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 852 110898 N 0.91 0 0 0.95 150 122 2
+Refer: 884 110898 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B133
-Encoding: 854 110899 854
+Encoding: 886 110899 886
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60589,17 +61355,17 @@ Substitution2: "Vertical forms subtable" u1B133.vert
 EndChar
 
 StartChar: u1B133.vert
-Encoding: 855 -1 855
+Encoding: 887 -1 887
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 854 110899 N 0.91 0 0 0.95 150 122 2
+Refer: 886 110899 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B134
-Encoding: 856 110900 856
+Encoding: 888 110900 888
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60623,17 +61389,17 @@ Substitution2: "Vertical forms subtable" u1B134.vert
 EndChar
 
 StartChar: u1B134.vert
-Encoding: 857 -1 857
+Encoding: 889 -1 889
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 856 110900 N 0.91 0 0 0.95 150 122 2
+Refer: 888 110900 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B135
-Encoding: 858 110901 858
+Encoding: 890 110901 890
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60675,17 +61441,17 @@ Substitution2: "Vertical forms subtable" u1B135.vert
 EndChar
 
 StartChar: u1B135.vert
-Encoding: 859 -1 859
+Encoding: 891 -1 891
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 858 110901 N 0.91 0 0 0.95 150 122 2
+Refer: 890 110901 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B136
-Encoding: 860 110902 860
+Encoding: 892 110902 892
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60735,17 +61501,17 @@ Substitution2: "Vertical forms subtable" u1B136.vert
 EndChar
 
 StartChar: u1B136.vert
-Encoding: 861 -1 861
+Encoding: 893 -1 893
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 860 110902 N 0.91 0 0 0.95 150 122 2
+Refer: 892 110902 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B137
-Encoding: 862 110903 862
+Encoding: 894 110903 894
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60782,17 +61548,17 @@ Substitution2: "Vertical forms subtable" u1B137.vert
 EndChar
 
 StartChar: u1B137.vert
-Encoding: 863 -1 863
+Encoding: 895 -1 895
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 862 110903 N 0.91 0 0 0.95 150 122 2
+Refer: 894 110903 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B138
-Encoding: 864 110904 864
+Encoding: 896 110904 896
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60845,17 +61611,17 @@ Substitution2: "Vertical forms subtable" u1B138.vert
 EndChar
 
 StartChar: u1B138.vert
-Encoding: 865 -1 865
+Encoding: 897 -1 897
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 864 110904 N 0.91 0 0 0.95 150 122 2
+Refer: 896 110904 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B139
-Encoding: 866 110905 866
+Encoding: 898 110905 898
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60892,17 +61658,17 @@ Substitution2: "Vertical forms subtable" u1B139.vert
 EndChar
 
 StartChar: u1B139.vert
-Encoding: 867 -1 867
+Encoding: 899 -1 899
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 866 110905 N 0.91 0 0 0.95 150 122 2
+Refer: 898 110905 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B13A
-Encoding: 868 110906 868
+Encoding: 900 110906 900
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60928,17 +61694,17 @@ Substitution2: "Vertical forms subtable" u1B13A.vert
 EndChar
 
 StartChar: u1B13A.vert
-Encoding: 869 -1 869
+Encoding: 901 -1 901
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 868 110906 N 0.91 0 0 0.95 150 122 2
+Refer: 900 110906 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B13B
-Encoding: 870 110907 870
+Encoding: 902 110907 902
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -60967,17 +61733,17 @@ Substitution2: "Vertical forms subtable" u1B13B.vert
 EndChar
 
 StartChar: u1B13B.vert
-Encoding: 871 -1 871
+Encoding: 903 -1 903
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 870 110907 N 0.91 0 0 0.95 150 122 2
+Refer: 902 110907 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B13C
-Encoding: 872 110908 872
+Encoding: 904 110908 904
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61035,17 +61801,17 @@ Substitution2: "Vertical forms subtable" u1B13C.vert
 EndChar
 
 StartChar: u1B13C.vert
-Encoding: 873 -1 873
+Encoding: 905 -1 905
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 872 110908 N 0.91 0 0 0.95 150 122 2
+Refer: 904 110908 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B13D
-Encoding: 874 110909 874
+Encoding: 906 110909 906
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61092,17 +61858,17 @@ Substitution2: "Vertical forms subtable" u1B13D.vert
 EndChar
 
 StartChar: u1B13D.vert
-Encoding: 875 -1 875
+Encoding: 907 -1 907
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 874 110909 N 0.91 0 0 0.95 150 122 2
+Refer: 906 110909 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B13E
-Encoding: 876 110910 876
+Encoding: 908 110910 908
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61166,17 +61932,17 @@ Substitution2: "Vertical forms subtable" u1B13E.vert
 EndChar
 
 StartChar: u1B13E.vert
-Encoding: 877 -1 877
+Encoding: 909 -1 909
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 876 110910 N 0.91 0 0 0.95 150 122 2
+Refer: 908 110910 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B13F
-Encoding: 878 110911 878
+Encoding: 910 110911 910
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61232,17 +61998,17 @@ Substitution2: "Vertical forms subtable" u1B13F.vert
 EndChar
 
 StartChar: u1B13F.vert
-Encoding: 879 -1 879
+Encoding: 911 -1 911
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 878 110911 N 0.91 0 0 0.95 150 122 2
+Refer: 910 110911 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B140
-Encoding: 880 110912 880
+Encoding: 912 110912 912
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61273,17 +62039,17 @@ Substitution2: "Vertical forms subtable" u1B140.vert
 EndChar
 
 StartChar: u1B140.vert
-Encoding: 881 -1 881
+Encoding: 913 -1 913
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 880 110912 N 0.91 0 0 0.95 150 122 2
+Refer: 912 110912 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B141
-Encoding: 882 110913 882
+Encoding: 914 110913 914
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61346,17 +62112,17 @@ Substitution2: "Vertical forms subtable" u1B141.vert
 EndChar
 
 StartChar: u1B141.vert
-Encoding: 883 -1 883
+Encoding: 915 -1 915
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 882 110913 N 0.91 0 0 0.95 150 122 2
+Refer: 914 110913 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B142
-Encoding: 884 110914 884
+Encoding: 916 110914 916
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61388,17 +62154,17 @@ Substitution2: "Vertical forms subtable" u1B142.vert
 EndChar
 
 StartChar: u1B142.vert
-Encoding: 885 -1 885
+Encoding: 917 -1 917
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 884 110914 N 0.91 0 0 0.95 150 122 2
+Refer: 916 110914 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B143
-Encoding: 886 110915 886
+Encoding: 918 110915 918
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61446,17 +62212,17 @@ Substitution2: "Vertical forms subtable" u1B143.vert
 EndChar
 
 StartChar: u1B143.vert
-Encoding: 887 -1 887
+Encoding: 919 -1 919
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 886 110915 N 0.91 0 0 0.95 150 122 2
+Refer: 918 110915 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B144
-Encoding: 888 110916 888
+Encoding: 920 110916 920
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61482,17 +62248,17 @@ Substitution2: "Vertical forms subtable" u1B144.vert
 EndChar
 
 StartChar: u1B144.vert
-Encoding: 889 -1 889
+Encoding: 921 -1 921
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 888 110916 N 0.91 0 0 0.95 150 122 2
+Refer: 920 110916 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B145
-Encoding: 890 110917 890
+Encoding: 922 110917 922
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61555,17 +62321,17 @@ Substitution2: "Vertical forms subtable" u1B145.vert
 EndChar
 
 StartChar: u1B145.vert
-Encoding: 891 -1 891
+Encoding: 923 -1 923
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 890 110917 N 0.91 0 0 0.95 150 122 2
+Refer: 922 110917 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B146
-Encoding: 892 110918 892
+Encoding: 924 110918 924
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61620,17 +62386,17 @@ Substitution2: "Vertical forms subtable" u1B146.vert
 EndChar
 
 StartChar: u1B146.vert
-Encoding: 893 -1 893
+Encoding: 925 -1 925
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 892 110918 N 0.91 0 0 0.95 150 122 2
+Refer: 924 110918 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B147
-Encoding: 894 110919 894
+Encoding: 926 110919 926
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61678,17 +62444,17 @@ Substitution2: "Vertical forms subtable" u1B147.vert
 EndChar
 
 StartChar: u1B147.vert
-Encoding: 895 -1 895
+Encoding: 927 -1 927
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 894 110919 N 0.91 0 0 0.95 150 122 2
+Refer: 926 110919 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B148
-Encoding: 896 110920 896
+Encoding: 928 110920 928
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61748,17 +62514,17 @@ Substitution2: "Vertical forms subtable" u1B148.vert
 EndChar
 
 StartChar: u1B148.vert
-Encoding: 897 -1 897
+Encoding: 929 -1 929
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 896 110920 N 0.91 0 0 0.95 150 122 2
+Refer: 928 110920 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B149
-Encoding: 898 110921 898
+Encoding: 930 110921 930
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61811,17 +62577,17 @@ Substitution2: "Vertical forms subtable" u1B149.vert
 EndChar
 
 StartChar: u1B149.vert
-Encoding: 899 -1 899
+Encoding: 931 -1 931
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 898 110921 N 0.91 0 0 0.95 150 122 2
+Refer: 930 110921 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B14A
-Encoding: 900 110922 900
+Encoding: 932 110922 932
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61866,17 +62632,17 @@ Substitution2: "Vertical forms subtable" u1B14A.vert
 EndChar
 
 StartChar: u1B14A.vert
-Encoding: 901 -1 901
+Encoding: 933 -1 933
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 900 110922 N 0.91 0 0 0.95 150 122 2
+Refer: 932 110922 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B14B
-Encoding: 902 110923 902
+Encoding: 934 110923 934
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61910,17 +62676,17 @@ Substitution2: "Vertical forms subtable" u1B14B.vert
 EndChar
 
 StartChar: u1B14B.vert
-Encoding: 903 -1 903
+Encoding: 935 -1 935
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 902 110923 N 0.91 0 0 0.95 150 122 2
+Refer: 934 110923 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B14C
-Encoding: 904 110924 904
+Encoding: 936 110924 936
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -61949,17 +62715,17 @@ Substitution2: "Vertical forms subtable" u1B14C.vert
 EndChar
 
 StartChar: u1B14C.vert
-Encoding: 905 -1 905
+Encoding: 937 -1 937
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 904 110924 N 0.91 0 0 0.95 150 122 2
+Refer: 936 110924 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B14D
-Encoding: 906 110925 906
+Encoding: 938 110925 938
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62001,17 +62767,17 @@ Substitution2: "Vertical forms subtable" u1B14D.vert
 EndChar
 
 StartChar: u1B14D.vert
-Encoding: 907 -1 907
+Encoding: 939 -1 939
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 906 110925 N 0.91 0 0 0.95 150 122 2
+Refer: 938 110925 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B14E
-Encoding: 908 110926 908
+Encoding: 940 110926 940
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62058,17 +62824,17 @@ Substitution2: "Vertical forms subtable" u1B14E.vert
 EndChar
 
 StartChar: u1B14E.vert
-Encoding: 909 -1 909
+Encoding: 941 -1 941
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 908 110926 N 0.91 0 0 0.95 150 122 2
+Refer: 940 110926 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B14F
-Encoding: 910 110927 910
+Encoding: 942 110927 942
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62100,17 +62866,17 @@ Substitution2: "Vertical forms subtable" u1B14F.vert
 EndChar
 
 StartChar: u1B14F.vert
-Encoding: 911 -1 911
+Encoding: 943 -1 943
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 910 110927 N 0.91 0 0 0.95 150 122 2
+Refer: 942 110927 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B150
-Encoding: 912 110928 912
+Encoding: 944 110928 944
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62173,17 +62939,17 @@ Substitution2: "Vertical forms subtable" u1B150.vert
 EndChar
 
 StartChar: u1B150.vert
-Encoding: 913 -1 913
+Encoding: 945 -1 945
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 912 110928 N 0.91 0 0 0.95 150 122 2
+Refer: 944 110928 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B151
-Encoding: 914 110929 914
+Encoding: 946 110929 946
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62251,17 +63017,17 @@ Substitution2: "Vertical forms subtable" u1B151.vert
 EndChar
 
 StartChar: u1B151.vert
-Encoding: 915 -1 915
+Encoding: 947 -1 947
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 914 110929 N 0.91 0 0 0.95 150 122 2
+Refer: 946 110929 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B152
-Encoding: 916 110930 916
+Encoding: 948 110930 948
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62320,17 +63086,17 @@ Substitution2: "Vertical forms subtable" u1B152.vert
 EndChar
 
 StartChar: u1B152.vert
-Encoding: 917 -1 917
+Encoding: 949 -1 949
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 916 110930 N 0.91 0 0 0.95 150 122 2
+Refer: 948 110930 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B153
-Encoding: 918 110931 918
+Encoding: 950 110931 950
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62363,17 +63129,17 @@ Substitution2: "Vertical forms subtable" u1B153.vert
 EndChar
 
 StartChar: u1B153.vert
-Encoding: 919 -1 919
+Encoding: 951 -1 951
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 918 110931 N 0.91 0 0 0.95 150 122 2
+Refer: 950 110931 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B154
-Encoding: 920 110932 920
+Encoding: 952 110932 952
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62419,17 +63185,17 @@ Substitution2: "Vertical forms subtable" u1B154.vert
 EndChar
 
 StartChar: u1B154.vert
-Encoding: 921 -1 921
+Encoding: 953 -1 953
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 920 110932 N 0.91 0 0 0.95 150 122 2
+Refer: 952 110932 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B155
-Encoding: 922 110933 922
+Encoding: 954 110933 954
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62460,17 +63226,17 @@ Substitution2: "Vertical forms subtable" u1B155.vert
 EndChar
 
 StartChar: u1B155.vert
-Encoding: 923 -1 923
+Encoding: 955 -1 955
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 922 110933 N 0.91 0 0 0.95 150 122 2
+Refer: 954 110933 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B156
-Encoding: 924 110934 924
+Encoding: 956 110934 956
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62516,17 +63282,17 @@ Substitution2: "Vertical forms subtable" u1B156.vert
 EndChar
 
 StartChar: u1B156.vert
-Encoding: 925 -1 925
+Encoding: 957 -1 957
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 924 110934 N 0.91 0 0 0.95 150 122 2
+Refer: 956 110934 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B157
-Encoding: 926 110935 926
+Encoding: 958 110935 958
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62564,17 +63330,17 @@ Substitution2: "Vertical forms subtable" u1B157.vert
 EndChar
 
 StartChar: u1B157.vert
-Encoding: 927 -1 927
+Encoding: 959 -1 959
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 926 110935 N 0.91 0 0 0.95 150 122 2
+Refer: 958 110935 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B158
-Encoding: 928 110936 928
+Encoding: 960 110936 960
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62603,17 +63369,17 @@ Substitution2: "Vertical forms subtable" u1B158.vert
 EndChar
 
 StartChar: u1B158.vert
-Encoding: 929 -1 929
+Encoding: 961 -1 961
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 928 110936 N 0.91 0 0 0.95 150 122 2
+Refer: 960 110936 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B159
-Encoding: 930 110937 930
+Encoding: 962 110937 962
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62651,17 +63417,17 @@ Substitution2: "Vertical forms subtable" u1B159.vert
 EndChar
 
 StartChar: u1B159.vert
-Encoding: 931 -1 931
+Encoding: 963 -1 963
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 930 110937 N 0.91 0 0 0.95 150 122 2
+Refer: 962 110937 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B15A
-Encoding: 932 110938 932
+Encoding: 964 110938 964
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62697,17 +63463,17 @@ Substitution2: "Vertical forms subtable" u1B15A.vert
 EndChar
 
 StartChar: u1B15A.vert
-Encoding: 933 -1 933
+Encoding: 965 -1 965
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 932 110938 N 0.91 0 0 0.95 150 122 2
+Refer: 964 110938 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B15B
-Encoding: 934 110939 934
+Encoding: 966 110939 966
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62746,17 +63512,17 @@ Substitution2: "Vertical forms subtable" u1B15B.vert
 EndChar
 
 StartChar: u1B15B.vert
-Encoding: 935 -1 935
+Encoding: 967 -1 967
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 934 110939 N 0.91 0 0 0.95 150 122 2
+Refer: 966 110939 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B15C
-Encoding: 936 110940 936
+Encoding: 968 110940 968
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62788,17 +63554,17 @@ Substitution2: "Vertical forms subtable" u1B15C.vert
 EndChar
 
 StartChar: u1B15C.vert
-Encoding: 937 -1 937
+Encoding: 969 -1 969
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 936 110940 N 0.91 0 0 0.95 150 122 2
+Refer: 968 110940 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B15D
-Encoding: 938 110941 938
+Encoding: 970 110941 970
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62831,17 +63597,17 @@ Substitution2: "Vertical forms subtable" u1B15D.vert
 EndChar
 
 StartChar: u1B15D.vert
-Encoding: 939 -1 939
+Encoding: 971 -1 971
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 938 110941 N 0.91 0 0 0.95 150 122 2
+Refer: 970 110941 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B15E
-Encoding: 940 110942 940
+Encoding: 972 110942 972
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62887,17 +63653,17 @@ Substitution2: "Vertical forms subtable" u1B15E.vert
 EndChar
 
 StartChar: u1B15E.vert
-Encoding: 941 -1 941
+Encoding: 973 -1 973
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 940 110942 N 0.91 0 0 0.95 150 122 2
+Refer: 972 110942 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B15F
-Encoding: 942 110943 942
+Encoding: 974 110943 974
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62918,17 +63684,17 @@ Substitution2: "Vertical forms subtable" u1B15F.vert
 EndChar
 
 StartChar: u1B15F.vert
-Encoding: 943 -1 943
+Encoding: 975 -1 975
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 942 110943 N 0.91 0 0 0.95 150 122 2
+Refer: 974 110943 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B160
-Encoding: 944 110944 944
+Encoding: 976 110944 976
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -62959,17 +63725,17 @@ Substitution2: "Vertical forms subtable" u1B160.vert
 EndChar
 
 StartChar: u1B160.vert
-Encoding: 945 -1 945
+Encoding: 977 -1 977
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 944 110944 N 0.91 0 0 0.95 150 122 2
+Refer: 976 110944 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B161
-Encoding: 946 110945 946
+Encoding: 978 110945 978
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63001,17 +63767,17 @@ Substitution2: "Vertical forms subtable" u1B161.vert
 EndChar
 
 StartChar: u1B161.vert
-Encoding: 947 -1 947
+Encoding: 979 -1 979
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 946 110945 N 0.91 0 0 0.95 150 122 2
+Refer: 978 110945 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B162
-Encoding: 948 110946 948
+Encoding: 980 110946 980
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63039,17 +63805,17 @@ Substitution2: "Vertical forms subtable" u1B162.vert
 EndChar
 
 StartChar: u1B162.vert
-Encoding: 949 -1 949
+Encoding: 981 -1 981
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 948 110946 N 0.91 0 0 0.95 150 122 2
+Refer: 980 110946 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B163
-Encoding: 950 110947 950
+Encoding: 982 110947 982
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63091,17 +63857,17 @@ Substitution2: "Vertical forms subtable" u1B163.vert
 EndChar
 
 StartChar: u1B163.vert
-Encoding: 951 -1 951
+Encoding: 983 -1 983
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 950 110947 N 0.91 0 0 0.95 150 122 2
+Refer: 982 110947 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B164
-Encoding: 952 110948 952
+Encoding: 984 110948 984
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63155,17 +63921,17 @@ AlternateSubs2: "Historical Kana subtable" u1B164.hist
 EndChar
 
 StartChar: u1B164.vert
-Encoding: 953 -1 953
+Encoding: 985 -1 985
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 952 110948 N 0.91 0 0 0.95 150 122 2
+Refer: 984 110948 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B164.hist
-Encoding: 954 -1 954
+Encoding: 986 -1 986
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63250,17 +64016,17 @@ Substitution2: "Vertical forms subtable" u1B164.hist.vert
 EndChar
 
 StartChar: u1B164.hist.vert
-Encoding: 955 -1 955
+Encoding: 987 -1 987
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 954 -1 N 0.91 0 0 0.95 150 122 2
+Refer: 986 -1 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B165
-Encoding: 956 110949 956
+Encoding: 988 110949 988
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63308,17 +64074,17 @@ Substitution2: "Vertical forms subtable" u1B165.vert
 EndChar
 
 StartChar: u1B165.vert
-Encoding: 957 -1 957
+Encoding: 989 -1 989
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 956 110949 N 0.91 0 0 0.95 150 122 2
+Refer: 988 110949 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B166
-Encoding: 958 110950 958
+Encoding: 990 110950 990
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63356,17 +64122,17 @@ Substitution2: "Vertical forms subtable" u1B166.vert
 EndChar
 
 StartChar: u1B166.vert
-Encoding: 959 -1 959
+Encoding: 991 -1 991
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 958 110950 N 0.91 0 0 0.95 150 122 2
+Refer: 990 110950 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u1B167
-Encoding: 960 110951 960
+Encoding: 992 110951 992
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63396,17 +64162,17 @@ Substitution2: "Vertical forms subtable" u1B167.vert
 EndChar
 
 StartChar: u1B167.vert
-Encoding: 961 -1 961
+Encoding: 993 -1 993
 Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 960 110951 N 0.91 0 0 0.95 150 122 2
+Refer: 992 110951 N 0.91 0 0 0.95 150 122 2
 Comment: "."
 EndChar
 
 StartChar: u2A708
-Encoding: 962 173832 962
+Encoding: 994 173832 994
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63460,7 +64226,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u2A708_uni3099.ccmp
-Encoding: 963 -1 963
+Encoding: 995 -1 995
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63529,7 +64295,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u2CEFF
-Encoding: 964 184063 964
+Encoding: 996 184063 996
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63567,7 +64333,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u2CF00
-Encoding: 965 184064 965
+Encoding: 997 184064 997
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63593,7 +64359,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u2CF02
-Encoding: 966 184066 966
+Encoding: 998 184066 998
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63627,7 +64393,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E0
-Encoding: 967 983776 967
+Encoding: 999 983776 999
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63674,7 +64440,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E0_uni3099.ccmp
-Encoding: 968 -1 968
+Encoding: 1000 -1 1000
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63736,7 +64502,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E1
-Encoding: 969 983777 969
+Encoding: 1001 983777 1001
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63802,7 +64568,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E2
-Encoding: 970 983778 970
+Encoding: 1002 983778 1002
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63851,7 +64617,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E3
-Encoding: 971 983779 971
+Encoding: 1003 983779 1003
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63910,7 +64676,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E4
-Encoding: 972 983780 972
+Encoding: 1004 983780 1004
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -63968,7 +64734,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E5
-Encoding: 973 983781 973
+Encoding: 1005 983781 1005
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -64032,7 +64798,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E6
-Encoding: 974 983782 974
+Encoding: 1006 983782 1006
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -64145,7 +64911,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E7
-Encoding: 975 983783 975
+Encoding: 1007 983783 1007
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -64209,7 +64975,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E7.vert
-Encoding: 976 -1 976
+Encoding: 1008 -1 1008
 Width: 1000
 VWidth: 3000
 Flags: W
@@ -64270,7 +65036,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E8
-Encoding: 977 983784 977
+Encoding: 1009 983784 1009
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -64353,7 +65119,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uF02E8.vert
-Encoding: 978 -1 978
+Encoding: 1010 -1 1010
 Width: 1000
 VWidth: 3000
 Flags: W
@@ -64412,612 +65178,6 @@ SplineSet
  289 -783 346 -686 445 -686 c 0
 EndSplineSet
 Colour: ff0000
-EndChar
-
-StartChar: uni30FF_uni3099.ccmp
-Encoding: 979 -1 979
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-787 758 m 0
- 801 734 814 710 824 690 c 1
- 773 667 l 1
- 764 686 752 710 737 734 c 0
- 724 758 710 781 697 800 c 1
- 747 822 l 1
- 759 805 773 781 787 758 c 0
-892 795 m 0
- 906 771 920 747 928 729 c 1
- 878 706 l 1
- 868 728 855 752 842 775 c 0
- 828 798 814 821 800 838 c 1
- 850 860 l 1
- 863 843 878 819 892 795 c 0
-706 311 m 1
- 706 114 l 2
- 706 48 709 -33 714 -82 c 1
- 706 -88 629 -88 621 -82 c 1
- 626 -7 629 118 629 218 c 2
- 629 632 l 1
- 388 632 l 2
- 307 632 227 629 147 624 c 1
- 143 632 143 705 147 711 c 1
- 181 707 239 705 286 705 c 2
- 426 705 l 1
- 566 705 l 2
- 614 705 671 707 706 711 c 0
- 714 711 714 707 714 705 c 0
- 709 656 706 575 706 508 c 2
- 706 311 l 1
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni30FF uni3099
-Ligature2: "Historical Kana ligatures subtable" uni30B4 uni30C8
-EndChar
-
-StartChar: uni3055_uni309A.ccmp
-Encoding: 980 -1 980
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-869 799 m 4
- 859 810 845 816 829 816 c 4
- 813 816 799 809 788 799 c 4
- 779 788 772 774 772 758 c 4
- 772 726 797 701 829 701 c 4
- 860 701 885 726 885 758 c 4
- 885 774 879 789 869 799 c 4
-898 829 m 4
- 916 811 927 786 927 758 c 4
- 927 730 916 705 898 687 c 4
- 880 669 856 658 829 658 c 4
- 773 658 731 702 731 758 c 4
- 731 814 773 858 829 858 c 4
- 856 858 881 847 898 829 c 4
-385 527 m 0
- 318 528 247 531 174 537 c 1
- 172 613 l 1
- 308 597 443 594 543 602 c 1
- 531 638 522 667 516 688 c 0
- 509 709 501 738 492 764 c 1
- 531 769 l 1
- 571 773 l 1
- 578 731 597 664 615 609 c 1
- 680 618 761 634 824 656 c 1
- 833 581 l 1
- 774 564 698 551 638 543 c 1
- 666 470 709 396 743 344 c 0
- 757 326 771 310 785 293 c 1
- 747 240 l 1
- 702 253 515 297 414 297 c 0
- 318 297 272 257 272 185 c 0
- 272 83 353 42 493 41 c 0
- 588 40 670 50 735 64 c 1
- 732 -12 l 1
- 673 -22 594 -33 489 -32 c 0
- 311 -31 198 34 198 176 c 0
- 198 294 272 361 410 361 c 0
- 518 361 649 329 682 315 c 1
- 646 370 599 456 569 534 c 1
- 514 529 451 527 385 527 c 0
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni3055 uni309A
-EndChar
-
-StartChar: uni3057_uni309A.ccmp
-Encoding: 981 -1 981
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-733 564 m 0
- 745 577 753 595 753 614 c 0
- 753 635 746 652 732 664 c 0
- 720 678 703 685 684 685 c 0
- 645 685 615 654 615 614 c 0
- 615 576 645 543 684 543 c 0
- 703 543 720 551 733 564 c 0
-603 698 m 0
- 624 719 653 732 684 732 c 0
- 716 732 744 719 765 698 c 0
- 786 677 799 647 799 614 c 0
- 799 550 747 498 684 498 c 0
- 621 498 570 550 570 614 c 0
- 570 647 583 677 603 698 c 0
-246 431 m 0
- 249 522 251 608 251 658 c 0
- 251 694 248 728 242 756 c 1
- 289 755 l 1
- 337 755 l 1
- 333 723 330 690 329 658 c 0
- 325 551 318 323 318 180 c 0
- 318 74 383 37 472 37 c 0
- 644 37 742 136 808 236 c 1
- 862 170 l 1
- 797 79 676 -42 470 -42 c 0
- 335 -42 241 16 241 172 c 0
- 241 243 244 340 246 431 c 0
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni3057 uni309A
-Substitution2: "Stylistic Kana variants subtable" uni3057_uni309A.ccmp.salt
-EndChar
-
-StartChar: uni3057_uni309A.ccmp.salt
-Encoding: 982 -1 982
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-733 564 m 4
- 745 577 753 595 753 614 c 4
- 753 635 746 652 732 664 c 4
- 720 678 703 685 684 685 c 4
- 645 685 615 654 615 614 c 4
- 615 576 645 543 684 543 c 4
- 703 543 720 551 733 564 c 4
-603 698 m 4
- 624 719 653 732 684 732 c 4
- 716 732 744 719 765 698 c 4
- 786 677 799 647 799 614 c 4
- 799 550 747 498 684 498 c 4
- 621 498 570 550 570 614 c 4
- 570 647 583 677 603 698 c 4
-443 564 m 1
- 419 583 387 605 346 632 c 0
- 299 665 264 687 241 700 c 1
- 283 764 l 1
- 304 753 340 731 391 696 c 0
- 431 669 463 647 487 629 c 1
- 443 564 l 1
-481 -35 m 0
- 321 -35 245 36 253 179 c 0
- 254 204 255 239 255 284 c 0
- 255 290 255 299 256 311 c 0
- 257 366 257 366 258 421 c 0
- 258 460 256 493 251 519 c 1
- 298 518 l 1
- 346 518 l 1
- 341 486 338 454 337 421 c 0
- 333 334 330 249 330 167 c 128
- 330 85 381 44 484 44 c 0
- 562 44 631 65 692 106 c 0
- 737 137 780 182 821 242 c 1
- 874 177 l 1
- 773 36 642 -35 481 -35 c 0
-EndSplineSet
-EndChar
-
-StartChar: uni3059_uni309A.ccmp
-Encoding: 983 -1 983
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-829 763 m 0
- 819 774 805 780 789 780 c 0
- 773 780 759 773 748 763 c 0
- 739 752 732 738 732 722 c 0
- 732 690 757 665 789 665 c 0
- 820 665 845 690 845 722 c 0
- 845 738 839 753 829 763 c 0
-858 793 m 0
- 876 775 887 750 887 722 c 0
- 887 694 876 669 858 651 c 0
- 840 633 816 622 789 622 c 0
- 733 622 691 666 691 722 c 0
- 691 778 733 822 789 822 c 0
- 816 822 841 811 858 793 c 0
-387 372 m 0
- 370 354 358 329 358 297 c 0
- 358 238 402 202 454 202 c 0
- 481 202 504 214 519 236 c 0
- 534 259 541 292 538 337 c 1
- 523 380 491 399 453 399 c 0
- 429 399 405 389 387 372 c 0
-587 471 m 1
- 588 392 l 1
- 608 360 618 317 618 269 c 0
- 618 139 556 -5 338 -71 c 1
- 275 -8 l 1
- 399 21 487 75 525 162 c 1
- 502 145 475 136 443 136 c 0
- 363 136 288 192 288 296 c 0
- 288 391 364 463 454 463 c 0
- 477 463 498 459 517 453 c 1
- 516 549 l 1
- 372 548 213 541 96 532 c 1
- 93 607 l 1
- 198 609 375 615 515 617 c 1
- 513 680 l 2
- 511 705 508 733 507 741 c 1
- 549 741 l 1
- 592 741 l 1
- 591 730 588 692 587 680 c 2
- 586 618 l 1
- 601 618 l 2
- 716 618 832 617 876 617 c 1
- 875 545 l 1
- 822 548 738 550 600 550 c 2
- 586 550 l 1
- 587 471 l 1
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni3059 uni309A
-EndChar
-
-StartChar: uni305B_uni309A.ccmp
-Encoding: 984 -1 984
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-885 726 m 4
- 875 737 861 743 845 743 c 4
- 829 743 815 736 804 726 c 4
- 795 715 788 701 788 685 c 4
- 788 653 813 628 845 628 c 4
- 876 628 901 653 901 685 c 4
- 901 701 895 716 885 726 c 4
-914 756 m 4
- 932 738 943 713 943 685 c 4
- 943 657 932 632 914 614 c 4
- 896 596 872 585 845 585 c 4
- 789 585 747 629 747 685 c 4
- 747 741 789 785 845 785 c 4
- 872 785 897 774 914 756 c 4
-633 599 m 1
- 633 668 l 2
- 633 689 631 723 628 740 c 1
- 708 740 l 1
- 705 723 704 691 703 670 c 2
- 701 536 l 1
- 806 543 l 2
- 829 545 856 546 879 548 c 1
- 879 473 l 1
- 864 474 828 473 805 472 c 0
- 776 471 741 470 699 467 c 1
- 697 396 695 311 686 266 c 0
- 678 223 657 211 614 211 c 0
- 580 211 515 220 490 225 c 1
- 492 291 l 1
- 524 284 564 279 586 279 c 0
- 608 279 618 283 621 305 c 0
- 626 337 630 401 632 461 c 1
- 535 454 425 443 331 434 c 1
- 330 335 330 235 331 197 c 0
- 334 94 336 57 498 57 c 0
- 600 57 716 69 777 80 c 1
- 774 -1 l 1
- 712 -8 597 -18 502 -18 c 0
- 284 -18 264 34 259 187 c 0
- 258 228 258 330 258 426 c 1
- 158 414 l 2
- 129 410 88 405 62 401 c 1
- 54 480 l 1
- 84 480 118 482 152 484 c 2
- 258 495 l 1
- 259 628 l 2
- 259 657 257 680 254 709 c 1
- 294 709 l 1
- 336 709 l 1
- 334 688 332 661 332 632 c 2
- 331 502 l 1
- 423 511 532 522 633 530 c 1
- 633 599 l 1
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni305B uni309A
-EndChar
-
-StartChar: uni305D_uni309A.ccmp
-Encoding: 985 -1 985
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-821 622 m 0
- 811 633 797 639 781 639 c 0
- 765 639 751 632 740 622 c 0
- 731 611 724 597 724 581 c 0
- 724 549 749 524 781 524 c 0
- 812 524 837 549 837 581 c 0
- 837 597 831 612 821 622 c 0
-850 652 m 0
- 868 634 879 609 879 581 c 0
- 879 553 868 528 850 510 c 0
- 832 492 808 481 781 481 c 0
- 725 481 683 525 683 581 c 0
- 683 637 725 681 781 681 c 0
- 808 681 833 670 850 652 c 0
-425 19 m 0
- 365 55 334 110 334 184 c 0
- 334 266 395 336 443 365 c 1
- 342 357 217 341 104 323 c 1
- 98 395 l 1
- 148 400 212 409 259 414 c 1
- 362 486 510 620 571 674 c 1
- 528 671 364 663 323 659 c 0
- 300 657 272 654 252 652 c 1
- 248 731 l 1
- 271 729 294 728 322 728 c 0
- 364 728 557 737 612 743 c 0
- 633 746 651 748 663 752 c 1
- 687 725 714 685 709 682 c 0
- 702 678 698 689 686 681 c 0
- 676 674 667 667 660 661 c 0
- 590 602 454 486 379 425 c 1
- 450 434 528 440 605 445 c 0
- 682 451 759 454 826 454 c 1
- 826 383 l 1
- 734 387 644 386 587 378 c 0
- 496 364 406 286 406 195 c 0
- 406 98 483 66 569 53 c 0
- 624 47 670 49 703 51 c 1
- 688 -27 l 1
- 574 -32 485 -16 425 19 c 0
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni305D uni309A
-Substitution2: "Stylistic Kana variants subtable" uni305D_uni309A.ccmp.salt
-EndChar
-
-StartChar: uni305D_uni309A.ccmp.salt
-Encoding: 986 -1 986
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-863 768 m 0
- 853 779 839 785 823 785 c 0
- 807 785 793 778 782 768 c 0
- 773 757 766 743 766 727 c 0
- 766 695 791 670 823 670 c 0
- 854 670 879 695 879 727 c 0
- 879 743 873 758 863 768 c 0
-892 798 m 0
- 910 780 921 755 921 727 c 0
- 921 699 910 674 892 656 c 0
- 874 638 850 627 823 627 c 0
- 767 627 725 671 725 727 c 0
- 725 783 767 827 823 827 c 0
- 850 827 875 816 892 798 c 0
-376 570 m 1
- 346 600 324 621 311 632 c 0
- 292 649 272 665 252 682 c 1
- 298 734 l 1
- 321 717 342 700 360 683 c 0
- 390 657 411 637 424 622 c 1
- 376 570 l 1
-445 -3 m 0
- 384 32 354 87 354 161 c 0
- 354 199 366 236 391 272 c 0
- 411 302 435 325 463 342 c 1
- 350 333 237 319 124 300 c 1
- 118 372 l 1
- 128 373 144 375 165 378 c 0
- 220 384 258 388 281 391 c 1
- 380 462 476 543 571 636 c 0
- 624 689 651 723 651 739 c 1
- 663 725 677 707 693 684 c 128
- 709 661 716 649 714 648 c 128
- 712 647 708 647 705 648 c 0
- 700 651 695 650 690 647 c 0
- 677 639 669 633 664 628 c 0
- 627 595 598 571 579 556 c 0
- 552 535 492 484 399 403 c 1
- 522 411 595 417 618 422 c 0
- 621 423 624 423 625 423 c 0
- 708 428 782 431 846 431 c 1
- 846 360 l 1
- 739 365 659 363 608 356 c 0
- 561 349 519 328 483 293 c 0
- 446 256 427 216 427 172 c 0
- 427 91 481 44 589 31 c 0
- 628 26 673 25 724 28 c 1
- 708 -49 l 1
- 595 -55 508 -40 445 -3 c 0
-EndSplineSet
-EndChar
-
-StartChar: uni30B5_uni309A.ccmp
-Encoding: 987 -1 987
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-873 732 m 0
- 863 743 849 749 833 749 c 0
- 817 749 803 742 792 732 c 0
- 783 721 776 707 776 691 c 0
- 776 659 801 634 833 634 c 0
- 864 634 889 659 889 691 c 0
- 889 707 883 722 873 732 c 0
-902 762 m 0
- 920 744 931 719 931 691 c 0
- 931 663 920 638 902 620 c 0
- 884 602 860 591 833 591 c 0
- 777 591 735 635 735 691 c 0
- 735 747 777 791 833 791 c 0
- 860 791 885 780 902 762 c 0
-480 545 m 1
- 614 545 l 1
- 614 665 l 2
- 614 703 611 735 610 744 c 1
- 695 744 l 1
- 694 734 690 703 690 665 c 2
- 690 545 l 1
- 792 545 l 2
- 835 545 866 548 879 551 c 1
- 879 469 l 1
- 868 470 835 472 793 472 c 2
- 690 472 l 1
- 690 438 l 2
- 690 183 635 50 421 -47 c 1
- 358 14 l 1
- 529 80 614 163 614 432 c 2
- 614 472 l 1
- 480 472 l 1
- 347 472 l 1
- 347 316 l 2
- 347 281 350 239 351 230 c 1
- 267 230 l 1
- 268 239 272 280 272 316 c 2
- 272 472 l 1
- 170 472 l 2
- 129 472 86 469 76 468 c 1
- 76 552 l 1
- 85 550 131 545 170 545 c 2
- 272 545 l 1
- 272 668 l 2
- 272 689 270 716 267 738 c 1
- 351 738 l 1
- 350 729 347 701 347 669 c 2
- 347 545 l 1
- 480 545 l 1
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni30B5 uni309A
-EndChar
-
-StartChar: uni30B7_uni309A.ccmp
-Encoding: 988 -1 988
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-825 710 m 0
- 815 721 801 727 785 727 c 0
- 769 727 755 720 744 710 c 0
- 735 699 728 685 728 669 c 0
- 728 637 753 612 785 612 c 0
- 816 612 841 637 841 669 c 0
- 841 685 835 700 825 710 c 0
-854 740 m 0
- 872 722 883 697 883 669 c 0
- 883 641 872 616 854 598 c 0
- 836 580 812 569 785 569 c 0
- 729 569 687 613 687 669 c 0
- 687 725 729 769 785 769 c 0
- 812 769 837 758 854 740 c 0
-364 613 m 0
- 326 639 287 664 259 680 c 1
- 302 745 l 1
- 330 729 370 702 410 676 c 0
- 448 650 486 625 506 609 c 1
- 461 543 l 1
- 439 561 402 587 364 613 c 0
-182 19 m 1
- 161 58 l 1
- 263 76 381 115 476 170 c 0
- 632 261 756 386 832 522 c 1
- 854 482 l 1
- 877 442 l 1
- 795 314 665 190 515 99 c 0
- 421 43 291 -1 204 -20 c 1
- 182 19 l 1
-268 464 m 0
- 308 439 346 414 366 399 c 1
- 323 332 l 1
- 300 349 263 375 225 399 c 0
- 186 424 147 449 117 463 c 1
- 160 529 l 1
- 188 514 229 489 268 464 c 0
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni30B7 uni309A
-EndChar
-
-StartChar: uni30B9_uni309A.ccmp
-Encoding: 989 -1 989
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-863 772 m 0
- 853 783 839 789 823 789 c 0
- 807 789 793 782 782 772 c 0
- 773 761 766 747 766 731 c 0
- 766 699 791 674 823 674 c 0
- 854 674 879 699 879 731 c 0
- 879 747 873 762 863 772 c 0
-892 802 m 0
- 910 784 921 759 921 731 c 0
- 921 703 910 678 892 660 c 0
- 874 642 850 631 823 631 c 0
- 767 631 725 675 725 731 c 0
- 725 787 767 831 823 831 c 0
- 850 831 875 820 892 802 c 0
-823 0 m 1
- 790 -29 l 1
- 727 56 628 169 532 257 c 1
- 431 146 304 41 165 -24 c 1
- 135 7 l 1
- 105 40 l 1
- 257 100 396 215 492 325 c 0
- 556 399 625 513 649 593 c 1
- 615 593 315 593 282 593 c 0
- 249 593 197 589 187 588 c 1
- 187 674 l 1
- 200 673 254 669 282 669 c 0
- 320 669 610 669 645 669 c 0
- 676 669 700 672 715 676 c 1
- 739 657 769 630 767 627 c 0
- 764 622 758 630 752 620 c 0
- 747 613 743 604 740 598 c 0
- 708 514 649 402 582 315 c 1
- 680 229 795 104 856 29 c 1
- 823 0 l 1
-EndSplineSet
-Ligature2: "Dakuten and handakuten subtable" uni30B9 uni309A
-EndChar
-
-StartChar: uni30BD_uni309A.ccmp
-Encoding: 990 -1 990
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-842 778 m 0
- 832 789 818 795 802 795 c 0
- 786 795 772 788 761 778 c 0
- 752 767 745 753 745 737 c 0
- 745 705 770 680 802 680 c 0
- 833 680 858 705 858 737 c 0
- 858 753 852 768 842 778 c 0
-871 808 m 0
- 889 790 900 765 900 737 c 0
- 900 709 889 684 871 666 c 0
- 853 648 829 637 802 637 c 0
- 746 637 704 681 704 737 c 0
- 704 793 746 837 802 837 c 0
- 829 837 854 826 871 808 c 0
-299 -20 m 1
- 264 11 l 1
- 588 152 673 412 702 557 c 0
- 708 582 712 616 712 634 c 1
- 759 624 l 1
- 805 615 l 1
- 796 591 788 559 785 546 c 0
- 740 353 646 106 334 -50 c 1
- 299 -20 l 1
-209 501 m 0
- 180 553 151 601 132 628 c 1
- 205 666 l 1
- 247 604 330 456 364 394 c 1
- 326 371 l 1
- 289 350 l 1
- 269 394 239 449 209 501 c 0
-EndSplineSet
-LCarets2: 1 0
-Ligature2: "Dakuten and handakuten subtable" uni30BD uni309A
 EndChar
 EndChars
 EndSplineFont
