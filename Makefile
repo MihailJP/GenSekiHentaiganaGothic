@@ -5,7 +5,7 @@ OTFONTS=${FONTS:.ttf=.otf}
 WOFFFONTS=${FONTS:.ttf=.woff}
 WOFF2FONTS=${FONTS:.ttf=.woff2}
 UFOS=${FONTS:.ttf=.ufo}
-DOCUMENTS=README.md ChangeLog LICENSE
+DOCUMENTS=README.md ChangeLog OFL.txt
 PKGS=GenSekiHentaiganaGothic.tar.xz GenSekiHentaiganaGothic-OT.tar.xz GenSekiHentaiganaGothic-WOFF2.tar.xz
 TTFPKGCMD=rm -rf $*; mkdir $*; rsync -R ${FONTS} ${DOCUMENTS} $*
 OTFPKGCMD=rm -rf $*; mkdir $*; rsync -R ${OTFONTS} ${DOCUMENTS} $*
