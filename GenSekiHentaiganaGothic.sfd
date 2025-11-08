@@ -125,6 +125,7 @@ EndChar
 
 StartChar: space
 Encoding: 1 32 1
+AltUni2: 0000a0.ffffffff.0
 Width: 224
 GlyphClass: 1
 Flags: W
