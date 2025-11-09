@@ -3,7 +3,7 @@ FontName: GenSekiHentaiganaGothic-Bold
 FullName: GenSeki Hentaigana Gothic Bold
 FamilyName: GenSeki Hentaigana Gothic
 Weight: Bold
-Copyright: Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.
+Copyright: Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nSome Hentaigana glyphs are derived from ShokakiHentaiganaGothic and SukimaGothic.\nOther Kana glyphs are derived from GenSekiGothic.
 Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -77,7 +77,7 @@ Lookup: 1 0 0 "Vertical forms" { "Vertical forms subtable" ("vert") } ['vert' ('
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an +ACIA-AS IS+ACIA BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL" "" "GenSeki Hentaigana Gothic" "Bold"
-LangName: 1041 "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A" "+WSpbVwAA" "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A +WSpbVwAA" "" "" "" "" "" "" "" "" "" "" "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A" "+WSpbVwAA"
+LangName: 1041 "Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.+AApZCU9TTu5UDTCwMOow1TBuTgCQ6DBvMAEwVzCHMEswTVkJT1NO7lQNMLQwwTDDMK8wATBZME0wfjC0MLcwwzCvMGt1MWdlMFcwfjBZMAIACjBdMG5O1jBuTu5UDTCwMOow1TBvMAFukHfzMLQwtzDDMK8wa3UxZ2UwVzB+MFkwAgAA" "+bpB381kJT1NO7lQNMLQwtzDDMK8A" "+WSpbVwAA" "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A +WSpbVwAA" "" "" "" "" "" "" "" "" "" "" "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A" "+WSpbVwAA"
 Encoding: Original
 UnicodeInterp: none
 NameList: AGL For New Fonts
