@@ -111,7 +111,7 @@ Unicode 15.0 に存在する 9 文字の他、予約位置に将来想定され�
 
 ライセンス
 ----------
-このフォントは、[SIL Open Font License Version 1.1](LICENSE) でライセンスされています。
+このフォントは、[SIL Open Font License Version 1.1](OFL.txt) でライセンスされています。
 
 上記「変体仮名グリフの出所」の A と B についても、SIL Open Font License Version 1.1
 でライセンスされています。
