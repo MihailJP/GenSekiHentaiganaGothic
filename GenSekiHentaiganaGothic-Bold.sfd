@@ -16111,11 +16111,11 @@ SplineSet
  714 457 643 385 565 324 c 1
  564 203 l 1
 EndSplineSet
-AlternateSubs2: "Historical Kana subtable" uni30CD.hist
+AlternateSubs2: "Historical Kana subtable" u1B127
 EndChar
 
-StartChar: uni30CD.hist
-Encoding: 434 -1 434
+StartChar: u1B127
+Encoding: 434 110887 434
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -19170,11 +19170,11 @@ SplineSet
  409 514 l 1
  409 396 l 1
 EndSplineSet
-AlternateSubs2: "Historical Kana subtable" uni30F0.hist
+AlternateSubs2: "Historical Kana subtable" u1B128
 EndChar
 
-StartChar: uni30F0.hist
-Encoding: 520 -1 520
+StartChar: u1B128
+Encoding: 520 110888 520
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -19326,7 +19326,7 @@ EndSplineSet
 AlternateSubs2: "Historical Kana subtable" uni30F8.hist
 EndChar
 
-StartChar: uni30F8.hist
+StartChar: u1B128_uni3099
 Encoding: 522 -1 522
 Width: 1000
 Flags: W
@@ -19428,6 +19428,7 @@ SplineSet
  567 487 l 1
  417 487 l 1
 EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" u1B128 uni3099
 EndChar
 
 StartChar: u1B165
@@ -65295,8 +65296,9 @@ Comment: "."
 Colour: ff0000
 EndChar
 
-StartChar: uF02E0
-Encoding: 1017 983776 1017
+StartChar: u1B123
+Encoding: 1017 110883 1017
+AltUni2: 0f02e0.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -65341,7 +65343,7 @@ Comment: "."
 Colour: ff0000
 EndChar
 
-StartChar: uF02E0_uni3099.ccmp
+StartChar: u1B123_uni3099.ccmp
 Encoding: 1018 -1 1018
 Width: 1000
 Flags: W
@@ -65394,14 +65396,15 @@ SplineSet
  454 678 l 2
  500 678 562 677 728 693 c 1
 EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" u1B123 uni3099
 Ligature2: "Historical Kana ligatures subtable" uni3054 uni3068
-Ligature2: "Dakuten and handakuten subtable" uF02E0 uni3099
 Comment: "."
 Colour: ff0000
 EndChar
 
-StartChar: uF02E1
-Encoding: 1019 983777 1019
+StartChar: u1B124
+Encoding: 1019 110884 1019
+AltUni2: 0f02e1.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -65462,8 +65465,9 @@ Comment: "."
 Colour: ff0000
 EndChar
 
-StartChar: uF02E2
-Encoding: 1020 983778 1020
+StartChar: u1B125
+Encoding: 1020 110885 1020
+AltUni2: 0f02e2.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -65576,8 +65580,9 @@ Comment: "."
 Colour: ff0000
 EndChar
 
-StartChar: uF02E4
-Encoding: 1022 983780 1022
+StartChar: u1B126
+Encoding: 1022 110886 1022
+AltUni2: 0f02e4.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2

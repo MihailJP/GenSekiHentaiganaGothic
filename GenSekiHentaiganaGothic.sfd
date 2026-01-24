@@ -16242,11 +16242,11 @@ SplineSet
  708 480 629 399 542 338 c 1
  541 208 l 1
 EndSplineSet
-AlternateSubs2: "Historical Kana subtable" uni30CD.hist
+AlternateSubs2: "Historical Kana subtable" u1B127
 EndChar
 
-StartChar: uni30CD.hist
-Encoding: 434 -1 434
+StartChar: u1B127
+Encoding: 434 110887 434
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -19293,11 +19293,11 @@ SplineSet
  386 532 l 1
  386 393 l 1
 EndSplineSet
-AlternateSubs2: "Historical Kana subtable" uni30F0.hist
+AlternateSubs2: "Historical Kana subtable" u1B128
 EndChar
 
-StartChar: uni30F0.hist
-Encoding: 520 -1 520
+StartChar: u1B128
+Encoding: 520 110888 520
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -19431,10 +19431,10 @@ SplineSet
  376 529 l 1
  376 390 l 1
 EndSplineSet
-AlternateSubs2: "Historical Kana subtable" uni30F8.hist
+AlternateSubs2: "Historical Kana subtable" u1B128_uni3099
 EndChar
 
-StartChar: uni30F8.hist
+StartChar: u1B128_uni3099
 Encoding: 522 -1 522
 Width: 1000
 Flags: W
@@ -19518,6 +19518,7 @@ SplineSet
  909 726 918 703 927 678 c 1
  881 663 l 1
 EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" u1B128 uni3099
 EndChar
 
 StartChar: u1B165
@@ -66093,8 +66094,9 @@ Ligature2: "Historical Kana ligatures subtable" uni306A uni308A
 Colour: ff0000
 EndChar
 
-StartChar: uF02E0
-Encoding: 1017 983776 1017
+StartChar: u1B123
+Encoding: 1017 110883 1017
+AltUni2: 0f02e0.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -66140,7 +66142,7 @@ Ligature2: "Historical Kana ligatures subtable" uni3053 uni3068
 Colour: ff0000
 EndChar
 
-StartChar: uF02E0_uni3099.ccmp
+StartChar: u1B123_uni3099.ccmp
 Encoding: 1018 -1 1018
 Width: 1000
 Flags: W
@@ -66197,13 +66199,14 @@ SplineSet
  262 676 349 672 453 673 c 0
  535 673 623 678 718 687 c 1
 EndSplineSet
+Ligature2: "Dakuten and handakuten subtable" u1B123 uni3099
 Ligature2: "Historical Kana ligatures subtable" uni3054 uni3068
-Ligature2: "Dakuten and handakuten subtable" uF02E0 uni3099
 Colour: ff0000
 EndChar
 
-StartChar: uF02E1
-Encoding: 1019 983777 1019
+StartChar: u1B124
+Encoding: 1019 110884 1019
+AltUni2: 0f02e1.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -66268,8 +66271,9 @@ Ligature2: "Historical Kana ligatures subtable" uni30C8 uni30AD
 Colour: ff0000
 EndChar
 
-StartChar: uF02E2
-Encoding: 1020 983778 1020
+StartChar: u1B125
+Encoding: 1020 110885 1020
+AltUni2: 0f02e2.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -66376,8 +66380,9 @@ Ligature2: "Historical Kana ligatures subtable" uni30C8 uni30A4 uni30D5
 Colour: ff0000
 EndChar
 
-StartChar: uF02E4
-Encoding: 1022 983780 1022
+StartChar: u1B126
+Encoding: 1022 110886 1022
+AltUni2: 0f02e4.ffffffff.0
 Width: 1000
 Flags: W
 LayerCount: 2
