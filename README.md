@@ -113,6 +113,8 @@ OpenType 機能タグ `hlig` からアクセスできます。
 Unicode 15.0 に存在する 9 文字の他、予約位置に将来想定される文字をすべて収録しています。
 縦書きにも対応しています。
 
+Unicode 18.0 に追加予定の U+1B168 KATAKANA LETTER SMALL ARCHAIC YE を追加しました。
+
 ライセンス
 ----------
 このフォントは、[SIL Open Font License Version 1.1](OFL.txt) でライセンスされています。
