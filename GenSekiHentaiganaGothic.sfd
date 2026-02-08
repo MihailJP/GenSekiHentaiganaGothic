@@ -77,6 +77,14 @@ Lookup: 4 0 1 "Historical Kana ligatures" { "Historical Kana ligatures subtable"
 Lookup: 1 0 0 "Vertical forms" { "Vertical forms subtable" ("vert") } ['vert' ('DFLT' <'dflt' > 'kana' <'JAN ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+TtTable: prep
+PUSHW_1
+ 511
+SCANCTRL
+PUSHB_1
+ 4
+SCANTYPE
+EndTTInstrs
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an +ACIA-AS IS+ACIA BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL" "" "GenSeki Hentaigana Gothic" "Regular"
 LangName: 1041 "Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.+AApZCU9TTu5UDTCwMOow1TBuTgCQ6DBvMAEwVzCHMEswTVkJT1NO7lQNMLQwwTDDMK8wATBZME0wfjC0MLcwwzCvMGt1MWdlMFcwfjBZMAIACjBdMG5O1jBuTu5UDTCwMOow1TBvMAFukHfzMLQwtzDDMK8wa3UxZ2UwVzB+MFkwAgAA" "+bpB381kJT1NO7lQNMLQwtzDDMK8A" "+ahlulgAA" "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A +ahlulgAA" "" "" "" "" "" "" "" "" "" "" "" "+bpB381kJT1NO7lQNMLQwtzDDMK8A" "+ahlulgAA"
 Encoding: Original

@@ -44,5 +44,4 @@ jobs:
         source venv/bin/activate
         fontbakery check-universal \
           -x fontdata_namecheck \
-          -x smart_dropout \
           ttf/*.ttf
