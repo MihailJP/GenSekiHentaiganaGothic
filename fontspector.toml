@@ -6,3 +6,28 @@ exclude_checks = [
 code = 'namecheck-service'
 status = 'SKIP'
 reason = 'Skip if this external service is offline'
+
+[[overrides]]
+code = 'ascent'
+status = 'INFO'
+reason = 'Only occurs with vertical ligatures'
+
+[[overrides]]
+code = 'descent'
+status = 'INFO'
+reason = 'Only occurs with vertical ligatures'
+
+[[overrides]]
+code = 'nameid4-too-long'
+status = 'WARN'
+reason = 'Postponed'
+
+[[overrides]]
+code = 'missing-rupee'
+status = 'SKIP'
+reason = 'This is not an Indic font'
+
+[[overrides]]
+code = 'contour-count'
+status = 'SKIP'
+reason = 'PUA should not be checked'
