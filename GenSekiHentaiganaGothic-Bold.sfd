@@ -19331,7 +19331,7 @@ SplineSet
  399 510 l 1
  399 392 l 1
 EndSplineSet
-AlternateSubs2: "Historical Kana subtable" uni30F8.hist
+AlternateSubs2: "Historical Kana subtable" u1B128_uni3099
 EndChar
 
 StartChar: u1B128_uni3099
